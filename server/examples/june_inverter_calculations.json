@@ -1,0 +1,3607 @@
+{
+    "timeUnit": "HOUR",
+    "unit": "Wh",
+    "measuredBy": "INVERTER",
+    "values": [
+        {
+            "timestamp": "2022-06-01T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-01T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-01T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-01T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-01T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-01T10:00:00.000Z",
+            "energy": 3,
+            "emissionsAvoided": 0.004770999999999999
+        },
+        {
+            "timestamp": "2022-06-01T11:00:00.000Z",
+            "energy": 282,
+            "emissionsAvoided": 0.45192849999999996
+        },
+        {
+            "timestamp": "2022-06-01T12:00:00.000Z",
+            "energy": 950,
+            "emissionsAvoided": 1.5359125
+        },
+        {
+            "timestamp": "2022-06-01T13:00:00.000Z",
+            "energy": 2056,
+            "emissionsAvoided": 3.3096460000000003
+        },
+        {
+            "timestamp": "2022-06-01T14:00:00.000Z",
+            "energy": 3809,
+            "emissionsAvoided": 6.0045710833333334
+        },
+        {
+            "timestamp": "2022-06-01T15:00:00.000Z",
+            "energy": 5841,
+            "emissionsAvoided": 9.242408999999999
+        },
+        {
+            "timestamp": "2022-06-01T16:00:00.000Z",
+            "energy": 5931,
+            "emissionsAvoided": 9.323037750000001
+        },
+        {
+            "timestamp": "2022-06-01T17:00:00.000Z",
+            "energy": 6975,
+            "emissionsAvoided": 10.981556250000002
+        },
+        {
+            "timestamp": "2022-06-01T18:00:00.000Z",
+            "energy": 7812,
+            "emissionsAvoided": 12.217968
+        },
+        {
+            "timestamp": "2022-06-01T19:00:00.000Z",
+            "energy": 6913,
+            "emissionsAvoided": 11.143179916666666
+        },
+        {
+            "timestamp": "2022-06-01T20:00:00.000Z",
+            "energy": 5312,
+            "emissionsAvoided": 8.562944000000002
+        },
+        {
+            "timestamp": "2022-06-01T21:00:00.000Z",
+            "energy": 2843,
+            "emissionsAvoided": 4.57723
+        },
+        {
+            "timestamp": "2022-06-01T22:00:00.000Z",
+            "energy": 2101,
+            "emissionsAvoided": 3.273007833333333
+        },
+        {
+            "timestamp": "2022-06-01T23:00:00.000Z",
+            "energy": 1087,
+            "emissionsAvoided": 1.6891074166666669
+        },
+        {
+            "timestamp": "2022-06-02T00:00:00.000Z",
+            "energy": 320,
+            "emissionsAvoided": 0.5101333333333333
+        },
+        {
+            "timestamp": "2022-06-02T01:00:00.000Z",
+            "energy": 18,
+            "emissionsAvoided": 0.0285795
+        },
+        {
+            "timestamp": "2022-06-02T02:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-02T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-02T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-02T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-02T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-02T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-02T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-02T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-02T10:00:00.000Z",
+            "energy": 1,
+            "emissionsAvoided": 0.0015601666666666667
+        },
+        {
+            "timestamp": "2022-06-02T11:00:00.000Z",
+            "energy": 180,
+            "emissionsAvoided": 0.285105
+        },
+        {
+            "timestamp": "2022-06-02T12:00:00.000Z",
+            "energy": 792,
+            "emissionsAvoided": 1.27248
+        },
+        {
+            "timestamp": "2022-06-02T13:00:00.000Z",
+            "energy": 1948,
+            "emissionsAvoided": 3.1723179999999997
+        },
+        {
+            "timestamp": "2022-06-02T14:00:00.000Z",
+            "energy": 4116,
+            "emissionsAvoided": 6.578396999999999
+        },
+        {
+            "timestamp": "2022-06-02T15:00:00.000Z",
+            "energy": 6225,
+            "emissionsAvoided": 9.725525
+        },
+        {
+            "timestamp": "2022-06-02T16:00:00.000Z",
+            "energy": 7382,
+            "emissionsAvoided": 11.593431
+        },
+        {
+            "timestamp": "2022-06-02T17:00:00.000Z",
+            "energy": 7224,
+            "emissionsAvoided": 11.357332000000001
+        },
+        {
+            "timestamp": "2022-06-02T18:00:00.000Z",
+            "energy": 6658,
+            "emissionsAvoided": 10.316571000000001
+        },
+        {
+            "timestamp": "2022-06-02T19:00:00.000Z",
+            "energy": 5824,
+            "emissionsAvoided": 8.917514666666667
+        },
+        {
+            "timestamp": "2022-06-02T20:00:00.000Z",
+            "energy": 4239,
+            "emissionsAvoided": 6.471186749999999
+        },
+        {
+            "timestamp": "2022-06-02T21:00:00.000Z",
+            "energy": 5465,
+            "emissionsAvoided": 8.414278333333334
+        },
+        {
+            "timestamp": "2022-06-02T22:00:00.000Z",
+            "energy": 3770,
+            "emissionsAvoided": 5.870518333333334
+        },
+        {
+            "timestamp": "2022-06-02T23:00:00.000Z",
+            "energy": 1802,
+            "emissionsAvoided": 2.7813870000000005
+        },
+        {
+            "timestamp": "2022-06-03T00:00:00.000Z",
+            "energy": 382,
+            "emissionsAvoided": 0.6073481666666666
+        },
+        {
+            "timestamp": "2022-06-03T01:00:00.000Z",
+            "energy": 80,
+            "emissionsAvoided": 0.12816
+        },
+        {
+            "timestamp": "2022-06-03T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-03T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-03T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-03T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-03T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-03T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-03T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-03T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-03T10:00:00.000Z",
+            "energy": 7,
+            "emissionsAvoided": 0.010815583333333333
+        },
+        {
+            "timestamp": "2022-06-03T11:00:00.000Z",
+            "energy": 190,
+            "emissionsAvoided": 0.2981575
+        },
+        {
+            "timestamp": "2022-06-03T12:00:00.000Z",
+            "energy": 780,
+            "emissionsAvoided": 1.244815
+        },
+        {
+            "timestamp": "2022-06-03T13:00:00.000Z",
+            "energy": 2037,
+            "emissionsAvoided": 3.2802489999999995
+        },
+        {
+            "timestamp": "2022-06-03T14:00:00.000Z",
+            "energy": 4343,
+            "emissionsAvoided": 6.960381333333333
+        },
+        {
+            "timestamp": "2022-06-03T15:00:00.000Z",
+            "energy": 6543,
+            "emissionsAvoided": 10.3891935
+        },
+        {
+            "timestamp": "2022-06-03T16:00:00.000Z",
+            "energy": 7912,
+            "emissionsAvoided": 12.329533333333334
+        },
+        {
+            "timestamp": "2022-06-03T17:00:00.000Z",
+            "energy": 8545,
+            "emissionsAvoided": 13.421346666666667
+        },
+        {
+            "timestamp": "2022-06-03T18:00:00.000Z",
+            "energy": 8503,
+            "emissionsAvoided": 13.227125083333332
+        },
+        {
+            "timestamp": "2022-06-03T19:00:00.000Z",
+            "energy": 8004,
+            "emissionsAvoided": 12.227444
+        },
+        {
+            "timestamp": "2022-06-03T20:00:00.000Z",
+            "energy": 7032,
+            "emissionsAvoided": 10.934759999999999
+        },
+        {
+            "timestamp": "2022-06-03T21:00:00.000Z",
+            "energy": 5652,
+            "emissionsAvoided": 8.811938999999999
+        },
+        {
+            "timestamp": "2022-06-03T22:00:00.000Z",
+            "energy": 3875,
+            "emissionsAvoided": 6.0566249999999995
+        },
+        {
+            "timestamp": "2022-06-03T23:00:00.000Z",
+            "energy": 1849,
+            "emissionsAvoided": 2.8671826666666664
+        },
+        {
+            "timestamp": "2022-06-04T00:00:00.000Z",
+            "energy": 380,
+            "emissionsAvoided": 0.6054350000000001
+        },
+        {
+            "timestamp": "2022-06-04T01:00:00.000Z",
+            "energy": 73,
+            "emissionsAvoided": 0.115778
+        },
+        {
+            "timestamp": "2022-06-04T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-04T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-04T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-04T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-04T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-04T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-04T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-04T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-04T10:00:00.000Z",
+            "energy": 7,
+            "emissionsAvoided": 0.010660999999999999
+        },
+        {
+            "timestamp": "2022-06-04T11:00:00.000Z",
+            "energy": 295,
+            "emissionsAvoided": 0.44928499999999993
+        },
+        {
+            "timestamp": "2022-06-04T12:00:00.000Z",
+            "energy": 1356,
+            "emissionsAvoided": 2.088466
+        },
+        {
+            "timestamp": "2022-06-04T13:00:00.000Z",
+            "energy": 2023,
+            "emissionsAvoided": 3.165995
+        },
+        {
+            "timestamp": "2022-06-04T14:00:00.000Z",
+            "energy": 4050,
+            "emissionsAvoided": 6.3844875000000005
+        },
+        {
+            "timestamp": "2022-06-04T15:00:00.000Z",
+            "energy": 5762,
+            "emissionsAvoided": 9.185108166666666
+        },
+        {
+            "timestamp": "2022-06-04T16:00:00.000Z",
+            "energy": 5900,
+            "emissionsAvoided": 9.346583333333333
+        },
+        {
+            "timestamp": "2022-06-04T17:00:00.000Z",
+            "energy": 5099,
+            "emissionsAvoided": 8.082764833333334
+        },
+        {
+            "timestamp": "2022-06-04T18:00:00.000Z",
+            "energy": 5359,
+            "emissionsAvoided": 8.523042916666668
+        },
+        {
+            "timestamp": "2022-06-04T19:00:00.000Z",
+            "energy": 6129,
+            "emissionsAvoided": 9.4274235
+        },
+        {
+            "timestamp": "2022-06-04T20:00:00.000Z",
+            "energy": 4745,
+            "emissionsAvoided": 7.356727083333333
+        },
+        {
+            "timestamp": "2022-06-04T21:00:00.000Z",
+            "energy": 2849,
+            "emissionsAvoided": 4.4401665
+        },
+        {
+            "timestamp": "2022-06-04T22:00:00.000Z",
+            "energy": 2215,
+            "emissionsAvoided": 3.439895
+        },
+        {
+            "timestamp": "2022-06-04T23:00:00.000Z",
+            "energy": 1800,
+            "emissionsAvoided": 2.8176
+        },
+        {
+            "timestamp": "2022-06-05T00:00:00.000Z",
+            "energy": 440,
+            "emissionsAvoided": 0.7017266666666666
+        },
+        {
+            "timestamp": "2022-06-05T01:00:00.000Z",
+            "energy": 138,
+            "emissionsAvoided": 0.22232949999999999
+        },
+        {
+            "timestamp": "2022-06-05T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-05T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-05T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-05T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-05T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-05T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-05T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-05T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-05T10:00:00.000Z",
+            "energy": 4,
+            "emissionsAvoided": 0.006091999999999999
+        },
+        {
+            "timestamp": "2022-06-05T11:00:00.000Z",
+            "energy": 252,
+            "emissionsAvoided": 0.38379599999999997
+        },
+        {
+            "timestamp": "2022-06-05T12:00:00.000Z",
+            "energy": 580,
+            "emissionsAvoided": 0.88508
+        },
+        {
+            "timestamp": "2022-06-05T13:00:00.000Z",
+            "energy": 942,
+            "emissionsAvoided": 1.4602570000000001
+        },
+        {
+            "timestamp": "2022-06-05T14:00:00.000Z",
+            "energy": 1305,
+            "emissionsAvoided": 2.0440650000000002
+        },
+        {
+            "timestamp": "2022-06-05T15:00:00.000Z",
+            "energy": 1482,
+            "emissionsAvoided": 2.3604555000000005
+        },
+        {
+            "timestamp": "2022-06-05T16:00:00.000Z",
+            "energy": 1848,
+            "emissionsAvoided": 2.927078
+        },
+        {
+            "timestamp": "2022-06-05T17:00:00.000Z",
+            "energy": 4776,
+            "emissionsAvoided": 7.55006
+        },
+        {
+            "timestamp": "2022-06-05T18:00:00.000Z",
+            "energy": 5769,
+            "emissionsAvoided": 8.90493225
+        },
+        {
+            "timestamp": "2022-06-05T19:00:00.000Z",
+            "energy": 5846,
+            "emissionsAvoided": 9.0452235
+        },
+        {
+            "timestamp": "2022-06-05T20:00:00.000Z",
+            "energy": 5920,
+            "emissionsAvoided": 9.243093333333332
+        },
+        {
+            "timestamp": "2022-06-05T21:00:00.000Z",
+            "energy": 4665,
+            "emissionsAvoided": 7.24824375
+        },
+        {
+            "timestamp": "2022-06-05T22:00:00.000Z",
+            "energy": 2288,
+            "emissionsAvoided": 3.5544080000000005
+        },
+        {
+            "timestamp": "2022-06-05T23:00:00.000Z",
+            "energy": 1095,
+            "emissionsAvoided": 1.7335675000000001
+        },
+        {
+            "timestamp": "2022-06-06T00:00:00.000Z",
+            "energy": 603,
+            "emissionsAvoided": 0.9645990000000001
+        },
+        {
+            "timestamp": "2022-06-06T01:00:00.000Z",
+            "energy": 65,
+            "emissionsAvoided": 0.1031225
+        },
+        {
+            "timestamp": "2022-06-06T02:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-06T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-06T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-06T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-06T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-06T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-06T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-06T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-06T10:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-06T11:00:00.000Z",
+            "energy": 154,
+            "emissionsAvoided": 0.24383333333333332
+        },
+        {
+            "timestamp": "2022-06-06T12:00:00.000Z",
+            "energy": 923,
+            "emissionsAvoided": 1.4774153333333333
+        },
+        {
+            "timestamp": "2022-06-06T13:00:00.000Z",
+            "energy": 2099,
+            "emissionsAvoided": 3.392158916666667
+        },
+        {
+            "timestamp": "2022-06-06T14:00:00.000Z",
+            "energy": 2578,
+            "emissionsAvoided": 4.080759166666667
+        },
+        {
+            "timestamp": "2022-06-06T15:00:00.000Z",
+            "energy": 5003,
+            "emissionsAvoided": 7.854293083333335
+        },
+        {
+            "timestamp": "2022-06-06T16:00:00.000Z",
+            "energy": 7322,
+            "emissionsAvoided": 11.580353166666667
+        },
+        {
+            "timestamp": "2022-06-06T17:00:00.000Z",
+            "energy": 5538,
+            "emissionsAvoided": 8.7431175
+        },
+        {
+            "timestamp": "2022-06-06T18:00:00.000Z",
+            "energy": 7660,
+            "emissionsAvoided": 11.8347
+        },
+        {
+            "timestamp": "2022-06-06T19:00:00.000Z",
+            "energy": 5906,
+            "emissionsAvoided": 9.118864
+        },
+        {
+            "timestamp": "2022-06-06T20:00:00.000Z",
+            "energy": 6011,
+            "emissionsAvoided": 9.353116
+        },
+        {
+            "timestamp": "2022-06-06T21:00:00.000Z",
+            "energy": 4228,
+            "emissionsAvoided": 6.565027000000001
+        },
+        {
+            "timestamp": "2022-06-06T22:00:00.000Z",
+            "energy": 3172,
+            "emissionsAvoided": 4.929288000000001
+        },
+        {
+            "timestamp": "2022-06-06T23:00:00.000Z",
+            "energy": 1254,
+            "emissionsAvoided": 1.9445359999999998
+        },
+        {
+            "timestamp": "2022-06-07T00:00:00.000Z",
+            "energy": 777,
+            "emissionsAvoided": 1.24494825
+        },
+        {
+            "timestamp": "2022-06-07T01:00:00.000Z",
+            "energy": 115,
+            "emissionsAvoided": 0.18216000000000002
+        },
+        {
+            "timestamp": "2022-06-07T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-07T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-07T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-07T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-07T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-07T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-07T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-07T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-07T10:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-07T11:00:00.000Z",
+            "energy": 143,
+            "emissionsAvoided": 0.22760833333333336
+        },
+        {
+            "timestamp": "2022-06-07T12:00:00.000Z",
+            "energy": 451,
+            "emissionsAvoided": 0.7297931666666667
+        },
+        {
+            "timestamp": "2022-06-07T13:00:00.000Z",
+            "energy": 792,
+            "emissionsAvoided": 1.2816539999999998
+        },
+        {
+            "timestamp": "2022-06-07T14:00:00.000Z",
+            "energy": 1106,
+            "emissionsAvoided": 1.7358669999999998
+        },
+        {
+            "timestamp": "2022-06-07T15:00:00.000Z",
+            "energy": 1688,
+            "emissionsAvoided": 2.6486126666666663
+        },
+        {
+            "timestamp": "2022-06-07T16:00:00.000Z",
+            "energy": 2607,
+            "emissionsAvoided": 4.102549000000001
+        },
+        {
+            "timestamp": "2022-06-07T17:00:00.000Z",
+            "energy": 4414,
+            "emissionsAvoided": 6.985890666666667
+        },
+        {
+            "timestamp": "2022-06-07T18:00:00.000Z",
+            "energy": 6506,
+            "emissionsAvoided": 10.051227833333334
+        },
+        {
+            "timestamp": "2022-06-07T19:00:00.000Z",
+            "energy": 5109,
+            "emissionsAvoided": 7.8899989999999995
+        },
+        {
+            "timestamp": "2022-06-07T20:00:00.000Z",
+            "energy": 3245,
+            "emissionsAvoided": 5.026505
+        },
+        {
+            "timestamp": "2022-06-07T21:00:00.000Z",
+            "energy": 3018,
+            "emissionsAvoided": 4.6628099999999995
+        },
+        {
+            "timestamp": "2022-06-07T22:00:00.000Z",
+            "energy": 1555,
+            "emissionsAvoided": 2.404937083333333
+        },
+        {
+            "timestamp": "2022-06-07T23:00:00.000Z",
+            "energy": 1763,
+            "emissionsAvoided": 2.732503083333334
+        },
+        {
+            "timestamp": "2022-06-08T00:00:00.000Z",
+            "energy": 753,
+            "emissionsAvoided": 1.20047025
+        },
+        {
+            "timestamp": "2022-06-08T01:00:00.000Z",
+            "energy": 136,
+            "emissionsAvoided": 0.21893733333333332
+        },
+        {
+            "timestamp": "2022-06-08T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-08T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-08T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-08T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-08T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-08T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-08T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-08T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-08T10:00:00.000Z",
+            "energy": 14,
+            "emissionsAvoided": 0.021723333333333334
+        },
+        {
+            "timestamp": "2022-06-08T11:00:00.000Z",
+            "energy": 216,
+            "emissionsAvoided": 0.34271999999999997
+        },
+        {
+            "timestamp": "2022-06-08T12:00:00.000Z",
+            "energy": 685,
+            "emissionsAvoided": 1.1036491666666666
+        },
+        {
+            "timestamp": "2022-06-08T13:00:00.000Z",
+            "energy": 1447,
+            "emissionsAvoided": 2.349083916666667
+        },
+        {
+            "timestamp": "2022-06-08T14:00:00.000Z",
+            "energy": 3509,
+            "emissionsAvoided": 5.548898666666666
+        },
+        {
+            "timestamp": "2022-06-08T15:00:00.000Z",
+            "energy": 6405,
+            "emissionsAvoided": 10.17114
+        },
+        {
+            "timestamp": "2022-06-08T16:00:00.000Z",
+            "energy": 7166,
+            "emissionsAvoided": 11.221358833333335
+        },
+        {
+            "timestamp": "2022-06-08T17:00:00.000Z",
+            "energy": 7734,
+            "emissionsAvoided": 12.179761
+        },
+        {
+            "timestamp": "2022-06-08T18:00:00.000Z",
+            "energy": 7689,
+            "emissionsAvoided": 11.91795
+        },
+        {
+            "timestamp": "2022-06-08T19:00:00.000Z",
+            "energy": 7662,
+            "emissionsAvoided": 11.822465999999999
+        },
+        {
+            "timestamp": "2022-06-08T20:00:00.000Z",
+            "energy": 6731,
+            "emissionsAvoided": 10.439780999999998
+        },
+        {
+            "timestamp": "2022-06-08T21:00:00.000Z",
+            "energy": 5512,
+            "emissionsAvoided": 8.549112
+        },
+        {
+            "timestamp": "2022-06-08T22:00:00.000Z",
+            "energy": 3262,
+            "emissionsAvoided": 5.062895833333333
+        },
+        {
+            "timestamp": "2022-06-08T23:00:00.000Z",
+            "energy": 1962,
+            "emissionsAvoided": 3.0615375
+        },
+        {
+            "timestamp": "2022-06-09T00:00:00.000Z",
+            "energy": 424,
+            "emissionsAvoided": 0.6712273333333333
+        },
+        {
+            "timestamp": "2022-06-09T01:00:00.000Z",
+            "energy": 90,
+            "emissionsAvoided": 0.14384249999999998
+        },
+        {
+            "timestamp": "2022-06-09T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-09T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-09T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-09T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-09T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-09T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-09T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-09T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-09T10:00:00.000Z",
+            "energy": 15,
+            "emissionsAvoided": 0.02335375
+        },
+        {
+            "timestamp": "2022-06-09T11:00:00.000Z",
+            "energy": 209,
+            "emissionsAvoided": 0.33027225
+        },
+        {
+            "timestamp": "2022-06-09T12:00:00.000Z",
+            "energy": 795,
+            "emissionsAvoided": 1.2742525
+        },
+        {
+            "timestamp": "2022-06-09T13:00:00.000Z",
+            "energy": 1950,
+            "emissionsAvoided": 3.1619249999999997
+        },
+        {
+            "timestamp": "2022-06-09T14:00:00.000Z",
+            "energy": 3988,
+            "emissionsAvoided": 6.373488666666667
+        },
+        {
+            "timestamp": "2022-06-09T15:00:00.000Z",
+            "energy": 6041,
+            "emissionsAvoided": 9.453661583333334
+        },
+        {
+            "timestamp": "2022-06-09T16:00:00.000Z",
+            "energy": 7369,
+            "emissionsAvoided": 11.535555416666668
+        },
+        {
+            "timestamp": "2022-06-09T17:00:00.000Z",
+            "energy": 7218,
+            "emissionsAvoided": 11.248050000000001
+        },
+        {
+            "timestamp": "2022-06-09T18:00:00.000Z",
+            "energy": 6551,
+            "emissionsAvoided": 10.075438
+        },
+        {
+            "timestamp": "2022-06-09T19:00:00.000Z",
+            "energy": 7296,
+            "emissionsAvoided": 11.227936
+        },
+        {
+            "timestamp": "2022-06-09T20:00:00.000Z",
+            "energy": 4995,
+            "emissionsAvoided": 7.7564025
+        },
+        {
+            "timestamp": "2022-06-09T21:00:00.000Z",
+            "energy": 4084,
+            "emissionsAvoided": 6.3016119999999995
+        },
+        {
+            "timestamp": "2022-06-09T22:00:00.000Z",
+            "energy": 2839,
+            "emissionsAvoided": 4.385072083333333
+        },
+        {
+            "timestamp": "2022-06-09T23:00:00.000Z",
+            "energy": 1521,
+            "emissionsAvoided": 2.3414527499999997
+        },
+        {
+            "timestamp": "2022-06-10T00:00:00.000Z",
+            "energy": 514,
+            "emissionsAvoided": 0.8236421666666668
+        },
+        {
+            "timestamp": "2022-06-10T01:00:00.000Z",
+            "energy": 100,
+            "emissionsAvoided": 0.15889166666666668
+        },
+        {
+            "timestamp": "2022-06-10T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-10T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-10T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-10T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-10T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-10T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-10T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-10T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-10T10:00:00.000Z",
+            "energy": 17,
+            "emissionsAvoided": 0.026504416666666662
+        },
+        {
+            "timestamp": "2022-06-10T11:00:00.000Z",
+            "energy": 387,
+            "emissionsAvoided": 0.6123307499999999
+        },
+        {
+            "timestamp": "2022-06-10T12:00:00.000Z",
+            "energy": 1141,
+            "emissionsAvoided": 1.8294033333333333
+        },
+        {
+            "timestamp": "2022-06-10T13:00:00.000Z",
+            "energy": 1579,
+            "emissionsAvoided": 2.57100675
+        },
+        {
+            "timestamp": "2022-06-10T14:00:00.000Z",
+            "energy": 2808,
+            "emissionsAvoided": 4.500990000000001
+        },
+        {
+            "timestamp": "2022-06-10T15:00:00.000Z",
+            "energy": 4976,
+            "emissionsAvoided": 7.775829333333333
+        },
+        {
+            "timestamp": "2022-06-10T16:00:00.000Z",
+            "energy": 6007,
+            "emissionsAvoided": 9.3919445
+        },
+        {
+            "timestamp": "2022-06-10T17:00:00.000Z",
+            "energy": 7415,
+            "emissionsAvoided": 11.6526725
+        },
+        {
+            "timestamp": "2022-06-10T18:00:00.000Z",
+            "energy": 5997,
+            "emissionsAvoided": 9.489253
+        },
+        {
+            "timestamp": "2022-06-10T19:00:00.000Z",
+            "energy": 5969,
+            "emissionsAvoided": 9.222602416666668
+        },
+        {
+            "timestamp": "2022-06-10T20:00:00.000Z",
+            "energy": 6305,
+            "emissionsAvoided": 9.771699166666666
+        },
+        {
+            "timestamp": "2022-06-10T21:00:00.000Z",
+            "energy": 2560,
+            "emissionsAvoided": 3.9551999999999996
+        },
+        {
+            "timestamp": "2022-06-10T22:00:00.000Z",
+            "energy": 1110,
+            "emissionsAvoided": 1.71717
+        },
+        {
+            "timestamp": "2022-06-10T23:00:00.000Z",
+            "energy": 938,
+            "emissionsAvoided": 1.4969698333333334
+        },
+        {
+            "timestamp": "2022-06-11T00:00:00.000Z",
+            "energy": 486,
+            "emissionsAvoided": 0.771606
+        },
+        {
+            "timestamp": "2022-06-11T01:00:00.000Z",
+            "energy": 82,
+            "emissionsAvoided": 0.13165783333333334
+        },
+        {
+            "timestamp": "2022-06-11T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-11T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-11T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-11T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-11T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-11T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-11T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-11T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-11T10:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-11T11:00:00.000Z",
+            "energy": 64,
+            "emissionsAvoided": 0.09747199999999999
+        },
+        {
+            "timestamp": "2022-06-11T12:00:00.000Z",
+            "energy": 566,
+            "emissionsAvoided": 0.8750831666666666
+        },
+        {
+            "timestamp": "2022-06-11T13:00:00.000Z",
+            "energy": 927,
+            "emissionsAvoided": 1.46458275
+        },
+        {
+            "timestamp": "2022-06-11T14:00:00.000Z",
+            "energy": 808,
+            "emissionsAvoided": 1.284114
+        },
+        {
+            "timestamp": "2022-06-11T15:00:00.000Z",
+            "energy": 4154,
+            "emissionsAvoided": 6.638438166666667
+        },
+        {
+            "timestamp": "2022-06-11T16:00:00.000Z",
+            "energy": 6138,
+            "emissionsAvoided": 9.706223999999999
+        },
+        {
+            "timestamp": "2022-06-11T17:00:00.000Z",
+            "energy": 6016,
+            "emissionsAvoided": 9.386965333333332
+        },
+        {
+            "timestamp": "2022-06-11T18:00:00.000Z",
+            "energy": 4949,
+            "emissionsAvoided": 7.687446666666666
+        },
+        {
+            "timestamp": "2022-06-11T19:00:00.000Z",
+            "energy": 4179,
+            "emissionsAvoided": 6.420337
+        },
+        {
+            "timestamp": "2022-06-11T20:00:00.000Z",
+            "energy": 4858,
+            "emissionsAvoided": 7.559857666666667
+        },
+        {
+            "timestamp": "2022-06-11T21:00:00.000Z",
+            "energy": 2148,
+            "emissionsAvoided": 3.35088
+        },
+        {
+            "timestamp": "2022-06-11T22:00:00.000Z",
+            "energy": 2148,
+            "emissionsAvoided": 3.3573239999999998
+        },
+        {
+            "timestamp": "2022-06-11T23:00:00.000Z",
+            "energy": 1229,
+            "emissionsAvoided": 1.9225656666666666
+        },
+        {
+            "timestamp": "2022-06-12T00:00:00.000Z",
+            "energy": 522,
+            "emissionsAvoided": 0.8337210000000002
+        },
+        {
+            "timestamp": "2022-06-12T01:00:00.000Z",
+            "energy": 105,
+            "emissionsAvoided": 0.168
+        },
+        {
+            "timestamp": "2022-06-12T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-12T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-12T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-12T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-12T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-12T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-12T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-12T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-12T10:00:00.000Z",
+            "energy": 13,
+            "emissionsAvoided": 0.0198055
+        },
+        {
+            "timestamp": "2022-06-12T11:00:00.000Z",
+            "energy": 142,
+            "emissionsAvoided": 0.21804100000000004
+        },
+        {
+            "timestamp": "2022-06-12T12:00:00.000Z",
+            "energy": 331,
+            "emissionsAvoided": 0.516029
+        },
+        {
+            "timestamp": "2022-06-12T13:00:00.000Z",
+            "energy": 1644,
+            "emissionsAvoided": 2.6275229999999996
+        },
+        {
+            "timestamp": "2022-06-12T14:00:00.000Z",
+            "energy": 3578,
+            "emissionsAvoided": 5.728378
+        },
+        {
+            "timestamp": "2022-06-12T15:00:00.000Z",
+            "energy": 2266,
+            "emissionsAvoided": 3.5627185
+        },
+        {
+            "timestamp": "2022-06-12T16:00:00.000Z",
+            "energy": 1225,
+            "emissionsAvoided": 1.9390729166666667
+        },
+        {
+            "timestamp": "2022-06-12T17:00:00.000Z",
+            "energy": 6078,
+            "emissionsAvoided": 9.6169155
+        },
+        {
+            "timestamp": "2022-06-12T18:00:00.000Z",
+            "energy": 4750,
+            "emissionsAvoided": 7.372
+        },
+        {
+            "timestamp": "2022-06-12T19:00:00.000Z",
+            "energy": 1932,
+            "emissionsAvoided": 2.992668
+        },
+        {
+            "timestamp": "2022-06-12T20:00:00.000Z",
+            "energy": 5092,
+            "emissionsAvoided": 7.900238000000001
+        },
+        {
+            "timestamp": "2022-06-12T21:00:00.000Z",
+            "energy": 5115,
+            "emissionsAvoided": 8.216394999999999
+        },
+        {
+            "timestamp": "2022-06-12T22:00:00.000Z",
+            "energy": 3680,
+            "emissionsAvoided": 5.927253333333334
+        },
+        {
+            "timestamp": "2022-06-12T23:00:00.000Z",
+            "energy": 1802,
+            "emissionsAvoided": 2.900319
+        },
+        {
+            "timestamp": "2022-06-13T00:00:00.000Z",
+            "energy": 442,
+            "emissionsAvoided": 0.7263165
+        },
+        {
+            "timestamp": "2022-06-13T01:00:00.000Z",
+            "energy": 78,
+            "emissionsAvoided": 0.12433849999999999
+        },
+        {
+            "timestamp": "2022-06-13T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T10:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T11:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T12:00:00.000Z",
+            "energy": 7,
+            "emissionsAvoided": 0.011277583333333334
+        },
+        {
+            "timestamp": "2022-06-13T13:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-13T14:00:00.000Z",
+            "energy": 184,
+            "emissionsAvoided": 0.28952399999999995
+        },
+        {
+            "timestamp": "2022-06-13T15:00:00.000Z",
+            "energy": 1363,
+            "emissionsAvoided": 2.195906583333333
+        },
+        {
+            "timestamp": "2022-06-13T16:00:00.000Z",
+            "energy": 755,
+            "emissionsAvoided": 1.2302724999999999
+        },
+        {
+            "timestamp": "2022-06-13T17:00:00.000Z",
+            "energy": 1024,
+            "emissionsAvoided": 1.6812373333333333
+        },
+        {
+            "timestamp": "2022-06-13T18:00:00.000Z",
+            "energy": 1555,
+            "emissionsAvoided": 2.598405
+        },
+        {
+            "timestamp": "2022-06-13T19:00:00.000Z",
+            "energy": 3625,
+            "emissionsAvoided": 6.0573749999999995
+        },
+        {
+            "timestamp": "2022-06-13T20:00:00.000Z",
+            "energy": 3604,
+            "emissionsAvoided": 6.036700000000001
+        },
+        {
+            "timestamp": "2022-06-13T21:00:00.000Z",
+            "energy": 2238,
+            "emissionsAvoided": 3.712842
+        },
+        {
+            "timestamp": "2022-06-13T22:00:00.000Z",
+            "energy": 1191,
+            "emissionsAvoided": 1.92197625
+        },
+        {
+            "timestamp": "2022-06-13T23:00:00.000Z",
+            "energy": 331,
+            "emissionsAvoided": 0.546812
+        },
+        {
+            "timestamp": "2022-06-14T00:00:00.000Z",
+            "energy": 83,
+            "emissionsAvoided": 0.13739958333333335
+        },
+        {
+            "timestamp": "2022-06-14T01:00:00.000Z",
+            "energy": 1,
+            "emissionsAvoided": 0.0016573333333333334
+        },
+        {
+            "timestamp": "2022-06-14T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-14T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-14T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-14T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-14T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-14T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-14T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-14T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-14T10:00:00.000Z",
+            "energy": 1,
+            "emissionsAvoided": 0.0015925
+        },
+        {
+            "timestamp": "2022-06-14T11:00:00.000Z",
+            "energy": 272,
+            "emissionsAvoided": 0.4387813333333333
+        },
+        {
+            "timestamp": "2022-06-14T12:00:00.000Z",
+            "energy": 1026,
+            "emissionsAvoided": 1.6517745
+        },
+        {
+            "timestamp": "2022-06-14T13:00:00.000Z",
+            "energy": 1548,
+            "emissionsAvoided": 2.460417
+        },
+        {
+            "timestamp": "2022-06-14T14:00:00.000Z",
+            "energy": 3592,
+            "emissionsAvoided": 5.884893333333333
+        },
+        {
+            "timestamp": "2022-06-14T15:00:00.000Z",
+            "energy": 5366,
+            "emissionsAvoided": 8.8284115
+        },
+        {
+            "timestamp": "2022-06-14T16:00:00.000Z",
+            "energy": 6352,
+            "emissionsAvoided": 10.404575999999999
+        },
+        {
+            "timestamp": "2022-06-14T17:00:00.000Z",
+            "energy": 7243,
+            "emissionsAvoided": 11.893005999999998
+        },
+        {
+            "timestamp": "2022-06-14T18:00:00.000Z",
+            "energy": 6212,
+            "emissionsAvoided": 10.380252
+        },
+        {
+            "timestamp": "2022-06-14T19:00:00.000Z",
+            "energy": 5492,
+            "emissionsAvoided": 9.177132
+        },
+        {
+            "timestamp": "2022-06-14T20:00:00.000Z",
+            "energy": 5030,
+            "emissionsAvoided": 8.42525
+        },
+        {
+            "timestamp": "2022-06-14T21:00:00.000Z",
+            "energy": 4324,
+            "emissionsAvoided": 7.173516
+        },
+        {
+            "timestamp": "2022-06-14T22:00:00.000Z",
+            "energy": 2553,
+            "emissionsAvoided": 4.120542
+        },
+        {
+            "timestamp": "2022-06-14T23:00:00.000Z",
+            "energy": 1475,
+            "emissionsAvoided": 2.4366999999999996
+        },
+        {
+            "timestamp": "2022-06-15T00:00:00.000Z",
+            "energy": 516,
+            "emissionsAvoided": 0.854453
+        },
+        {
+            "timestamp": "2022-06-15T01:00:00.000Z",
+            "energy": 107,
+            "emissionsAvoided": 0.177513
+        },
+        {
+            "timestamp": "2022-06-15T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-15T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-15T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-15T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-15T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-15T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-15T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-15T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-15T10:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-15T11:00:00.000Z",
+            "energy": 15,
+            "emissionsAvoided": 0.024180000000000004
+        },
+        {
+            "timestamp": "2022-06-15T12:00:00.000Z",
+            "energy": 684,
+            "emissionsAvoided": 1.097421
+        },
+        {
+            "timestamp": "2022-06-15T13:00:00.000Z",
+            "energy": 1199,
+            "emissionsAvoided": 1.931589
+        },
+        {
+            "timestamp": "2022-06-15T14:00:00.000Z",
+            "energy": 1091,
+            "emissionsAvoided": 1.7836940833333337
+        },
+        {
+            "timestamp": "2022-06-15T15:00:00.000Z",
+            "energy": 1297,
+            "emissionsAvoided": 2.13518625
+        },
+        {
+            "timestamp": "2022-06-15T16:00:00.000Z",
+            "energy": 828,
+            "emissionsAvoided": 1.357092
+        },
+        {
+            "timestamp": "2022-06-15T17:00:00.000Z",
+            "energy": 750,
+            "emissionsAvoided": 1.2314999999999998
+        },
+        {
+            "timestamp": "2022-06-15T18:00:00.000Z",
+            "energy": 313,
+            "emissionsAvoided": 0.523023
+        },
+        {
+            "timestamp": "2022-06-15T19:00:00.000Z",
+            "energy": 924,
+            "emissionsAvoided": 1.544004
+        },
+        {
+            "timestamp": "2022-06-15T20:00:00.000Z",
+            "energy": 1593,
+            "emissionsAvoided": 2.668275
+        },
+        {
+            "timestamp": "2022-06-15T21:00:00.000Z",
+            "energy": 2950,
+            "emissionsAvoided": 4.89405
+        },
+        {
+            "timestamp": "2022-06-15T22:00:00.000Z",
+            "energy": 3966,
+            "emissionsAvoided": 6.401124000000001
+        },
+        {
+            "timestamp": "2022-06-15T23:00:00.000Z",
+            "energy": 1948,
+            "emissionsAvoided": 3.2180959999999996
+        },
+        {
+            "timestamp": "2022-06-16T00:00:00.000Z",
+            "energy": 403,
+            "emissionsAvoided": 0.6673344166666667
+        },
+        {
+            "timestamp": "2022-06-16T01:00:00.000Z",
+            "energy": 92,
+            "emissionsAvoided": 0.152628
+        },
+        {
+            "timestamp": "2022-06-16T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-16T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-16T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-16T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-16T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-16T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-16T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-16T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-16T10:00:00.000Z",
+            "energy": 7,
+            "emissionsAvoided": 0.011124166666666668
+        },
+        {
+            "timestamp": "2022-06-16T11:00:00.000Z",
+            "energy": 168,
+            "emissionsAvoided": 0.270578
+        },
+        {
+            "timestamp": "2022-06-16T12:00:00.000Z",
+            "energy": 677,
+            "emissionsAvoided": 1.0920574166666666
+        },
+        {
+            "timestamp": "2022-06-16T13:00:00.000Z",
+            "energy": 1883,
+            "emissionsAvoided": 3.0149968333333335
+        },
+        {
+            "timestamp": "2022-06-16T14:00:00.000Z",
+            "energy": 3794,
+            "emissionsAvoided": 6.211410333333333
+        },
+        {
+            "timestamp": "2022-06-16T15:00:00.000Z",
+            "energy": 4280,
+            "emissionsAvoided": 7.042383333333333
+        },
+        {
+            "timestamp": "2022-06-16T16:00:00.000Z",
+            "energy": 4800,
+            "emissionsAvoided": 7.862399999999999
+        },
+        {
+            "timestamp": "2022-06-16T17:00:00.000Z",
+            "energy": 4995,
+            "emissionsAvoided": 8.201789999999999
+        },
+        {
+            "timestamp": "2022-06-16T18:00:00.000Z",
+            "energy": 5481,
+            "emissionsAvoided": 9.158751
+        },
+        {
+            "timestamp": "2022-06-16T19:00:00.000Z",
+            "energy": 4845,
+            "emissionsAvoided": 8.095995
+        },
+        {
+            "timestamp": "2022-06-16T20:00:00.000Z",
+            "energy": 4754,
+            "emissionsAvoided": 7.96295
+        },
+        {
+            "timestamp": "2022-06-16T21:00:00.000Z",
+            "energy": 4070,
+            "emissionsAvoided": 6.75213
+        },
+        {
+            "timestamp": "2022-06-16T22:00:00.000Z",
+            "energy": 2720,
+            "emissionsAvoided": 4.3875866666666665
+        },
+        {
+            "timestamp": "2022-06-16T23:00:00.000Z",
+            "energy": 1382,
+            "emissionsAvoided": 2.2830639999999995
+        },
+        {
+            "timestamp": "2022-06-17T00:00:00.000Z",
+            "energy": 440,
+            "emissionsAvoided": 0.7285666666666667
+        },
+        {
+            "timestamp": "2022-06-17T01:00:00.000Z",
+            "energy": 98,
+            "emissionsAvoided": 0.162582
+        },
+        {
+            "timestamp": "2022-06-17T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-17T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-17T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-17T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-17T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-17T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-17T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-17T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-17T10:00:00.000Z",
+            "energy": 5,
+            "emissionsAvoided": 0.007933333333333332
+        },
+        {
+            "timestamp": "2022-06-17T11:00:00.000Z",
+            "energy": 149,
+            "emissionsAvoided": 0.24072191666666665
+        },
+        {
+            "timestamp": "2022-06-17T12:00:00.000Z",
+            "energy": 670,
+            "emissionsAvoided": 1.0828875
+        },
+        {
+            "timestamp": "2022-06-17T13:00:00.000Z",
+            "energy": 1798,
+            "emissionsAvoided": 2.8958288333333333
+        },
+        {
+            "timestamp": "2022-06-17T14:00:00.000Z",
+            "energy": 3843,
+            "emissionsAvoided": 6.1020435
+        },
+        {
+            "timestamp": "2022-06-17T15:00:00.000Z",
+            "energy": 5859,
+            "emissionsAvoided": 9.227925
+        },
+        {
+            "timestamp": "2022-06-17T16:00:00.000Z",
+            "energy": 7094,
+            "emissionsAvoided": 11.488732999999998
+        },
+        {
+            "timestamp": "2022-06-17T17:00:00.000Z",
+            "energy": 7770,
+            "emissionsAvoided": 12.6411425
+        },
+        {
+            "timestamp": "2022-06-17T18:00:00.000Z",
+            "energy": 7861,
+            "emissionsAvoided": 13.129180166666668
+        },
+        {
+            "timestamp": "2022-06-17T19:00:00.000Z",
+            "energy": 7425,
+            "emissionsAvoided": 12.407175
+        },
+        {
+            "timestamp": "2022-06-17T20:00:00.000Z",
+            "energy": 6642,
+            "emissionsAvoided": 11.125350000000001
+        },
+        {
+            "timestamp": "2022-06-17T21:00:00.000Z",
+            "energy": 5423,
+            "emissionsAvoided": 8.996757
+        },
+        {
+            "timestamp": "2022-06-17T22:00:00.000Z",
+            "energy": 3802,
+            "emissionsAvoided": 6.178249999999999
+        },
+        {
+            "timestamp": "2022-06-17T23:00:00.000Z",
+            "energy": 1874,
+            "emissionsAvoided": 3.0958479999999997
+        },
+        {
+            "timestamp": "2022-06-18T00:00:00.000Z",
+            "energy": 392,
+            "emissionsAvoided": 0.6462773333333334
+        },
+        {
+            "timestamp": "2022-06-18T01:00:00.000Z",
+            "energy": 93,
+            "emissionsAvoided": 0.15416300000000002
+        },
+        {
+            "timestamp": "2022-06-18T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-18T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-18T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-18T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-18T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-18T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-18T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-18T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-18T10:00:00.000Z",
+            "energy": 8,
+            "emissionsAvoided": 0.012379333333333332
+        },
+        {
+            "timestamp": "2022-06-18T11:00:00.000Z",
+            "energy": 203,
+            "emissionsAvoided": 0.31302599999999997
+        },
+        {
+            "timestamp": "2022-06-18T12:00:00.000Z",
+            "energy": 712,
+            "emissionsAvoided": 1.1302406666666667
+        },
+        {
+            "timestamp": "2022-06-18T13:00:00.000Z",
+            "energy": 1819,
+            "emissionsAvoided": 2.9275289166666667
+        },
+        {
+            "timestamp": "2022-06-18T14:00:00.000Z",
+            "energy": 3816,
+            "emissionsAvoided": 6.1230899999999995
+        },
+        {
+            "timestamp": "2022-06-18T15:00:00.000Z",
+            "energy": 6020,
+            "emissionsAvoided": 9.527653333333333
+        },
+        {
+            "timestamp": "2022-06-18T16:00:00.000Z",
+            "energy": 7395,
+            "emissionsAvoided": 11.668077499999999
+        },
+        {
+            "timestamp": "2022-06-18T17:00:00.000Z",
+            "energy": 8104,
+            "emissionsAvoided": 13.010971999999999
+        },
+        {
+            "timestamp": "2022-06-18T18:00:00.000Z",
+            "energy": 8189,
+            "emissionsAvoided": 13.118778
+        },
+        {
+            "timestamp": "2022-06-18T19:00:00.000Z",
+            "energy": 7339,
+            "emissionsAvoided": 11.757078000000002
+        },
+        {
+            "timestamp": "2022-06-18T20:00:00.000Z",
+            "energy": 5433,
+            "emissionsAvoided": 8.457370000000001
+        },
+        {
+            "timestamp": "2022-06-18T21:00:00.000Z",
+            "energy": 4023,
+            "emissionsAvoided": 6.49010475
+        },
+        {
+            "timestamp": "2022-06-18T22:00:00.000Z",
+            "energy": 2530,
+            "emissionsAvoided": 4.0859499999999995
+        },
+        {
+            "timestamp": "2022-06-18T23:00:00.000Z",
+            "energy": 1241,
+            "emissionsAvoided": 2.024071
+        },
+        {
+            "timestamp": "2022-06-19T00:00:00.000Z",
+            "energy": 812,
+            "emissionsAvoided": 1.3013653333333335
+        },
+        {
+            "timestamp": "2022-06-19T01:00:00.000Z",
+            "energy": 125,
+            "emissionsAvoided": 0.2018125
+        },
+        {
+            "timestamp": "2022-06-19T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-19T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-19T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-19T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-19T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-19T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-19T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-19T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-19T10:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-19T11:00:00.000Z",
+            "energy": 304,
+            "emissionsAvoided": 0.4427506666666666
+        },
+        {
+            "timestamp": "2022-06-19T12:00:00.000Z",
+            "energy": 795,
+            "emissionsAvoided": 1.2451025
+        },
+        {
+            "timestamp": "2022-06-19T13:00:00.000Z",
+            "energy": 1836,
+            "emissionsAvoided": 2.9051639999999996
+        },
+        {
+            "timestamp": "2022-06-19T14:00:00.000Z",
+            "energy": 3705,
+            "emissionsAvoided": 5.96165375
+        },
+        {
+            "timestamp": "2022-06-19T15:00:00.000Z",
+            "energy": 5818,
+            "emissionsAvoided": 9.263225666666667
+        },
+        {
+            "timestamp": "2022-06-19T16:00:00.000Z",
+            "energy": 7144,
+            "emissionsAvoided": 11.379796666666667
+        },
+        {
+            "timestamp": "2022-06-19T17:00:00.000Z",
+            "energy": 7718,
+            "emissionsAvoided": 12.274835833333334
+        },
+        {
+            "timestamp": "2022-06-19T18:00:00.000Z",
+            "energy": 7669,
+            "emissionsAvoided": 12.385435
+        },
+        {
+            "timestamp": "2022-06-19T19:00:00.000Z",
+            "energy": 7284,
+            "emissionsAvoided": 11.67261
+        },
+        {
+            "timestamp": "2022-06-19T20:00:00.000Z",
+            "energy": 6411,
+            "emissionsAvoided": 10.2180655
+        },
+        {
+            "timestamp": "2022-06-19T21:00:00.000Z",
+            "energy": 4898,
+            "emissionsAvoided": 7.9008821666666655
+        },
+        {
+            "timestamp": "2022-06-19T22:00:00.000Z",
+            "energy": 3585,
+            "emissionsAvoided": 5.7808125
+        },
+        {
+            "timestamp": "2022-06-19T23:00:00.000Z",
+            "energy": 1764,
+            "emissionsAvoided": 2.918097
+        },
+        {
+            "timestamp": "2022-06-20T00:00:00.000Z",
+            "energy": 445,
+            "emissionsAvoided": 0.7405170833333333
+        },
+        {
+            "timestamp": "2022-06-20T01:00:00.000Z",
+            "energy": 104,
+            "emissionsAvoided": 0.166998
+        },
+        {
+            "timestamp": "2022-06-20T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-20T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-20T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-20T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-20T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-20T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-20T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-20T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-20T10:00:00.000Z",
+            "energy": 8,
+            "emissionsAvoided": 0.012730666666666666
+        },
+        {
+            "timestamp": "2022-06-20T11:00:00.000Z",
+            "energy": 208,
+            "emissionsAvoided": 0.334516
+        },
+        {
+            "timestamp": "2022-06-20T12:00:00.000Z",
+            "energy": 750,
+            "emissionsAvoided": 1.21175
+        },
+        {
+            "timestamp": "2022-06-20T13:00:00.000Z",
+            "energy": 1791,
+            "emissionsAvoided": 2.90455425
+        },
+        {
+            "timestamp": "2022-06-20T14:00:00.000Z",
+            "energy": 3578,
+            "emissionsAvoided": 5.731956
+        },
+        {
+            "timestamp": "2022-06-20T15:00:00.000Z",
+            "energy": 5568,
+            "emissionsAvoided": 9.08048
+        },
+        {
+            "timestamp": "2022-06-20T16:00:00.000Z",
+            "energy": 6826,
+            "emissionsAvoided": 11.1861075
+        },
+        {
+            "timestamp": "2022-06-20T17:00:00.000Z",
+            "energy": 7383,
+            "emissionsAvoided": 12.12104025
+        },
+        {
+            "timestamp": "2022-06-20T18:00:00.000Z",
+            "energy": 7356,
+            "emissionsAvoided": 12.291876
+        },
+        {
+            "timestamp": "2022-06-20T19:00:00.000Z",
+            "energy": 6955,
+            "emissionsAvoided": 11.621805
+        },
+        {
+            "timestamp": "2022-06-20T20:00:00.000Z",
+            "energy": 6225,
+            "emissionsAvoided": 10.426875
+        },
+        {
+            "timestamp": "2022-06-20T21:00:00.000Z",
+            "energy": 4974,
+            "emissionsAvoided": 8.251866
+        },
+        {
+            "timestamp": "2022-06-20T22:00:00.000Z",
+            "energy": 3021,
+            "emissionsAvoided": 4.872873
+        },
+        {
+            "timestamp": "2022-06-20T23:00:00.000Z",
+            "energy": 1421,
+            "emissionsAvoided": 2.347492
+        },
+        {
+            "timestamp": "2022-06-21T00:00:00.000Z",
+            "energy": 443,
+            "emissionsAvoided": 0.7330173333333333
+        },
+        {
+            "timestamp": "2022-06-21T01:00:00.000Z",
+            "energy": 68,
+            "emissionsAvoided": 0.11281200000000001
+        },
+        {
+            "timestamp": "2022-06-21T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-21T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-21T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-21T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-21T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-21T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-21T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-21T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-21T10:00:00.000Z",
+            "energy": 2,
+            "emissionsAvoided": 0.003232
+        },
+        {
+            "timestamp": "2022-06-21T11:00:00.000Z",
+            "energy": 118,
+            "emissionsAvoided": 0.19108133333333333
+        },
+        {
+            "timestamp": "2022-06-21T12:00:00.000Z",
+            "energy": 653,
+            "emissionsAvoided": 1.0592748333333333
+        },
+        {
+            "timestamp": "2022-06-21T13:00:00.000Z",
+            "energy": 1757,
+            "emissionsAvoided": 2.8401905000000003
+        },
+        {
+            "timestamp": "2022-06-21T14:00:00.000Z",
+            "energy": 2910,
+            "emissionsAvoided": 4.8046524999999995
+        },
+        {
+            "timestamp": "2022-06-21T15:00:00.000Z",
+            "energy": 4448,
+            "emissionsAvoided": 7.318813333333334
+        },
+        {
+            "timestamp": "2022-06-21T16:00:00.000Z",
+            "energy": 5598,
+            "emissionsAvoided": 9.169524
+        },
+        {
+            "timestamp": "2022-06-21T17:00:00.000Z",
+            "energy": 7587,
+            "emissionsAvoided": 12.45722175
+        },
+        {
+            "timestamp": "2022-06-21T18:00:00.000Z",
+            "energy": 7437,
+            "emissionsAvoided": 12.427227
+        },
+        {
+            "timestamp": "2022-06-21T19:00:00.000Z",
+            "energy": 7448,
+            "emissionsAvoided": 12.448711333333334
+        },
+        {
+            "timestamp": "2022-06-21T20:00:00.000Z",
+            "energy": 6534,
+            "emissionsAvoided": 10.97712
+        },
+        {
+            "timestamp": "2022-06-21T21:00:00.000Z",
+            "energy": 5476,
+            "emissionsAvoided": 9.193747666666669
+        },
+        {
+            "timestamp": "2022-06-21T22:00:00.000Z",
+            "energy": 3340,
+            "emissionsAvoided": 5.464239999999999
+        },
+        {
+            "timestamp": "2022-06-21T23:00:00.000Z",
+            "energy": 2022,
+            "emissionsAvoided": 3.348432
+        },
+        {
+            "timestamp": "2022-06-22T00:00:00.000Z",
+            "energy": 683,
+            "emissionsAvoided": 1.1309910833333334
+        },
+        {
+            "timestamp": "2022-06-22T01:00:00.000Z",
+            "energy": 176,
+            "emissionsAvoided": 0.291984
+        },
+        {
+            "timestamp": "2022-06-22T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-22T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-22T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-22T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-22T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-22T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-22T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-22T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-22T10:00:00.000Z",
+            "energy": 9,
+            "emissionsAvoided": 0.014341499999999998
+        },
+        {
+            "timestamp": "2022-06-22T11:00:00.000Z",
+            "energy": 164,
+            "emissionsAvoided": 0.2654613333333333
+        },
+        {
+            "timestamp": "2022-06-22T12:00:00.000Z",
+            "energy": 652,
+            "emissionsAvoided": 1.0556966666666665
+        },
+        {
+            "timestamp": "2022-06-22T13:00:00.000Z",
+            "energy": 1780,
+            "emissionsAvoided": 2.8947249999999998
+        },
+        {
+            "timestamp": "2022-06-22T14:00:00.000Z",
+            "energy": 3608,
+            "emissionsAvoided": 5.947788
+        },
+        {
+            "timestamp": "2022-06-22T15:00:00.000Z",
+            "energy": 4403,
+            "emissionsAvoided": 7.2451365
+        },
+        {
+            "timestamp": "2022-06-22T16:00:00.000Z",
+            "energy": 6750,
+            "emissionsAvoided": 11.0565
+        },
+        {
+            "timestamp": "2022-06-22T17:00:00.000Z",
+            "energy": 6557,
+            "emissionsAvoided": 10.766047583333334
+        },
+        {
+            "timestamp": "2022-06-22T18:00:00.000Z",
+            "energy": 6564,
+            "emissionsAvoided": 10.968444
+        },
+        {
+            "timestamp": "2022-06-22T19:00:00.000Z",
+            "energy": 5609,
+            "emissionsAvoided": 9.372639
+        },
+        {
+            "timestamp": "2022-06-22T20:00:00.000Z",
+            "energy": 5073,
+            "emissionsAvoided": 8.497275
+        },
+        {
+            "timestamp": "2022-06-22T21:00:00.000Z",
+            "energy": 5363,
+            "emissionsAvoided": 8.897217000000001
+        },
+        {
+            "timestamp": "2022-06-22T22:00:00.000Z",
+            "energy": 3692,
+            "emissionsAvoided": 5.958888000000001
+        },
+        {
+            "timestamp": "2022-06-22T23:00:00.000Z",
+            "energy": 1934,
+            "emissionsAvoided": 3.194968
+        },
+        {
+            "timestamp": "2022-06-23T00:00:00.000Z",
+            "energy": 449,
+            "emissionsAvoided": 0.7432820833333333
+        },
+        {
+            "timestamp": "2022-06-23T01:00:00.000Z",
+            "energy": 105,
+            "emissionsAvoided": 0.17419500000000002
+        },
+        {
+            "timestamp": "2022-06-23T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-23T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-23T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-23T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-23T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-23T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-23T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-23T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-23T10:00:00.000Z",
+            "energy": 6,
+            "emissionsAvoided": 0.009565
+        },
+        {
+            "timestamp": "2022-06-23T11:00:00.000Z",
+            "energy": 169,
+            "emissionsAvoided": 0.273611
+        },
+        {
+            "timestamp": "2022-06-23T12:00:00.000Z",
+            "energy": 661,
+            "emissionsAvoided": 1.0677353333333333
+        },
+        {
+            "timestamp": "2022-06-23T13:00:00.000Z",
+            "energy": 1769,
+            "emissionsAvoided": 2.8669593333333334
+        },
+        {
+            "timestamp": "2022-06-23T14:00:00.000Z",
+            "energy": 3591,
+            "emissionsAvoided": 5.7177697499999995
+        },
+        {
+            "timestamp": "2022-06-23T15:00:00.000Z",
+            "energy": 4926,
+            "emissionsAvoided": 8.159098
+        },
+        {
+            "timestamp": "2022-06-23T16:00:00.000Z",
+            "energy": 6149,
+            "emissionsAvoided": 10.061813666666666
+        },
+        {
+            "timestamp": "2022-06-23T17:00:00.000Z",
+            "energy": 7627,
+            "emissionsAvoided": 12.523533999999998
+        },
+        {
+            "timestamp": "2022-06-23T18:00:00.000Z",
+            "energy": 7776,
+            "emissionsAvoided": 12.993696
+        },
+        {
+            "timestamp": "2022-06-23T19:00:00.000Z",
+            "energy": 7426,
+            "emissionsAvoided": 12.408846
+        },
+        {
+            "timestamp": "2022-06-23T20:00:00.000Z",
+            "energy": 6527,
+            "emissionsAvoided": 10.932725
+        },
+        {
+            "timestamp": "2022-06-23T21:00:00.000Z",
+            "energy": 5446,
+            "emissionsAvoided": 9.034914
+        },
+        {
+            "timestamp": "2022-06-23T22:00:00.000Z",
+            "energy": 3663,
+            "emissionsAvoided": 5.908724249999999
+        },
+        {
+            "timestamp": "2022-06-23T23:00:00.000Z",
+            "energy": 1778,
+            "emissionsAvoided": 2.9372559999999996
+        },
+        {
+            "timestamp": "2022-06-24T00:00:00.000Z",
+            "energy": 435,
+            "emissionsAvoided": 0.7197075000000001
+        },
+        {
+            "timestamp": "2022-06-24T01:00:00.000Z",
+            "energy": 107,
+            "emissionsAvoided": 0.177406
+        },
+        {
+            "timestamp": "2022-06-24T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-24T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-24T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-24T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-24T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-24T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-24T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-24T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-24T10:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-24T11:00:00.000Z",
+            "energy": 127,
+            "emissionsAvoided": 0.20584583333333334
+        },
+        {
+            "timestamp": "2022-06-24T12:00:00.000Z",
+            "energy": 533,
+            "emissionsAvoided": 0.865059
+        },
+        {
+            "timestamp": "2022-06-24T13:00:00.000Z",
+            "energy": 1339,
+            "emissionsAvoided": 2.16817575
+        },
+        {
+            "timestamp": "2022-06-24T14:00:00.000Z",
+            "energy": 2900,
+            "emissionsAvoided": 4.649908333333333
+        },
+        {
+            "timestamp": "2022-06-24T15:00:00.000Z",
+            "energy": 3423,
+            "emissionsAvoided": 5.640533499999999
+        },
+        {
+            "timestamp": "2022-06-24T16:00:00.000Z",
+            "energy": 6641,
+            "emissionsAvoided": 10.784430583333334
+        },
+        {
+            "timestamp": "2022-06-24T17:00:00.000Z",
+            "energy": 7306,
+            "emissionsAvoided": 11.900865166666668
+        },
+        {
+            "timestamp": "2022-06-24T18:00:00.000Z",
+            "energy": 7265,
+            "emissionsAvoided": 12.139815
+        },
+        {
+            "timestamp": "2022-06-24T19:00:00.000Z",
+            "energy": 4622,
+            "emissionsAvoided": 7.723362
+        },
+        {
+            "timestamp": "2022-06-24T20:00:00.000Z",
+            "energy": 2702,
+            "emissionsAvoided": 4.52585
+        },
+        {
+            "timestamp": "2022-06-24T21:00:00.000Z",
+            "energy": 3398,
+            "emissionsAvoided": 5.637282
+        },
+        {
+            "timestamp": "2022-06-24T22:00:00.000Z",
+            "energy": 2640,
+            "emissionsAvoided": 4.29
+        },
+        {
+            "timestamp": "2022-06-24T23:00:00.000Z",
+            "energy": 1570,
+            "emissionsAvoided": 2.5936399999999997
+        },
+        {
+            "timestamp": "2022-06-25T00:00:00.000Z",
+            "energy": 512,
+            "emissionsAvoided": 0.8448
+        },
+        {
+            "timestamp": "2022-06-25T01:00:00.000Z",
+            "energy": 140,
+            "emissionsAvoided": 0.23212
+        },
+        {
+            "timestamp": "2022-06-25T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-25T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-25T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-25T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-25T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-25T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-25T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-25T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-25T10:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-25T11:00:00.000Z",
+            "energy": 25,
+            "emissionsAvoided": 0.0398625
+        },
+        {
+            "timestamp": "2022-06-25T12:00:00.000Z",
+            "energy": 554,
+            "emissionsAvoided": 0.8886621666666666
+        },
+        {
+            "timestamp": "2022-06-25T13:00:00.000Z",
+            "energy": 669,
+            "emissionsAvoided": 1.0788182499999999
+        },
+        {
+            "timestamp": "2022-06-25T14:00:00.000Z",
+            "energy": 1097,
+            "emissionsAvoided": 1.7569369166666666
+        },
+        {
+            "timestamp": "2022-06-25T15:00:00.000Z",
+            "energy": 3430,
+            "emissionsAvoided": 5.495431666666667
+        },
+        {
+            "timestamp": "2022-06-25T16:00:00.000Z",
+            "energy": 3932,
+            "emissionsAvoided": 6.358699333333334
+        },
+        {
+            "timestamp": "2022-06-25T17:00:00.000Z",
+            "energy": 3923,
+            "emissionsAvoided": 6.4376430000000004
+        },
+        {
+            "timestamp": "2022-06-25T18:00:00.000Z",
+            "energy": 4396,
+            "emissionsAvoided": 7.336924000000001
+        },
+        {
+            "timestamp": "2022-06-25T19:00:00.000Z",
+            "energy": 3809,
+            "emissionsAvoided": 6.357221000000001
+        },
+        {
+            "timestamp": "2022-06-25T20:00:00.000Z",
+            "energy": 2893,
+            "emissionsAvoided": 4.84215875
+        },
+        {
+            "timestamp": "2022-06-25T21:00:00.000Z",
+            "energy": 3376,
+            "emissionsAvoided": 5.600784
+        },
+        {
+            "timestamp": "2022-06-25T22:00:00.000Z",
+            "energy": 3730,
+            "emissionsAvoided": 6.012138333333333
+        },
+        {
+            "timestamp": "2022-06-25T23:00:00.000Z",
+            "energy": 2240,
+            "emissionsAvoided": 3.6943200000000003
+        },
+        {
+            "timestamp": "2022-06-26T00:00:00.000Z",
+            "energy": 415,
+            "emissionsAvoided": 0.6873091666666666
+        },
+        {
+            "timestamp": "2022-06-26T01:00:00.000Z",
+            "energy": 132,
+            "emissionsAvoided": 0.21934
+        },
+        {
+            "timestamp": "2022-06-26T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-26T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-26T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-26T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-26T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-26T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-26T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-26T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-26T10:00:00.000Z",
+            "energy": 8,
+            "emissionsAvoided": 0.012616
+        },
+        {
+            "timestamp": "2022-06-26T11:00:00.000Z",
+            "energy": 207,
+            "emissionsAvoided": 0.32721525
+        },
+        {
+            "timestamp": "2022-06-26T12:00:00.000Z",
+            "energy": 701,
+            "emissionsAvoided": 1.1179781666666666
+        },
+        {
+            "timestamp": "2022-06-26T13:00:00.000Z",
+            "energy": 1764,
+            "emissionsAvoided": 2.8357769999999998
+        },
+        {
+            "timestamp": "2022-06-26T14:00:00.000Z",
+            "energy": 3175,
+            "emissionsAvoided": 5.06809375
+        },
+        {
+            "timestamp": "2022-06-26T15:00:00.000Z",
+            "energy": 6122,
+            "emissionsAvoided": 9.717654666666666
+        },
+        {
+            "timestamp": "2022-06-26T16:00:00.000Z",
+            "energy": 6958,
+            "emissionsAvoided": 11.133379833333333
+        },
+        {
+            "timestamp": "2022-06-26T17:00:00.000Z",
+            "energy": 6752,
+            "emissionsAvoided": 10.663096000000001
+        },
+        {
+            "timestamp": "2022-06-26T18:00:00.000Z",
+            "energy": 6663,
+            "emissionsAvoided": 10.6041645
+        },
+        {
+            "timestamp": "2022-06-26T19:00:00.000Z",
+            "energy": 5335,
+            "emissionsAvoided": 8.55600625
+        },
+        {
+            "timestamp": "2022-06-26T20:00:00.000Z",
+            "energy": 5502,
+            "emissionsAvoided": 8.566614
+        },
+        {
+            "timestamp": "2022-06-26T21:00:00.000Z",
+            "energy": 5254,
+            "emissionsAvoided": 8.381881333333334
+        },
+        {
+            "timestamp": "2022-06-26T22:00:00.000Z",
+            "energy": 3602,
+            "emissionsAvoided": 5.7595979999999996
+        },
+        {
+            "timestamp": "2022-06-26T23:00:00.000Z",
+            "energy": 1053,
+            "emissionsAvoided": 1.679535
+        },
+        {
+            "timestamp": "2022-06-27T00:00:00.000Z",
+            "energy": 371,
+            "emissionsAvoided": 0.594713
+        },
+        {
+            "timestamp": "2022-06-27T01:00:00.000Z",
+            "energy": 112,
+            "emissionsAvoided": 0.18066533333333332
+        },
+        {
+            "timestamp": "2022-06-27T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-27T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-27T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-27T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-27T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-27T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-27T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-27T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-27T10:00:00.000Z",
+            "energy": 10,
+            "emissionsAvoided": 0.015634999999999996
+        },
+        {
+            "timestamp": "2022-06-27T11:00:00.000Z",
+            "energy": 226,
+            "emissionsAvoided": 0.358888
+        },
+        {
+            "timestamp": "2022-06-27T12:00:00.000Z",
+            "energy": 678,
+            "emissionsAvoided": 1.0888115
+        },
+        {
+            "timestamp": "2022-06-27T13:00:00.000Z",
+            "energy": 1777,
+            "emissionsAvoided": 2.886144166666667
+        },
+        {
+            "timestamp": "2022-06-27T14:00:00.000Z",
+            "energy": 3680,
+            "emissionsAvoided": 5.853653333333333
+        },
+        {
+            "timestamp": "2022-06-27T15:00:00.000Z",
+            "energy": 5787,
+            "emissionsAvoided": 9.2601645
+        },
+        {
+            "timestamp": "2022-06-27T16:00:00.000Z",
+            "energy": 7062,
+            "emissionsAvoided": 11.293315000000002
+        },
+        {
+            "timestamp": "2022-06-27T17:00:00.000Z",
+            "energy": 7673,
+            "emissionsAvoided": 12.1425225
+        },
+        {
+            "timestamp": "2022-06-27T18:00:00.000Z",
+            "energy": 7357,
+            "emissionsAvoided": 11.763843
+        },
+        {
+            "timestamp": "2022-06-27T19:00:00.000Z",
+            "energy": 6465,
+            "emissionsAvoided": 10.350465
+        },
+        {
+            "timestamp": "2022-06-27T20:00:00.000Z",
+            "energy": 6804,
+            "emissionsAvoided": 10.933461000000001
+        },
+        {
+            "timestamp": "2022-06-27T21:00:00.000Z",
+            "energy": 3655,
+            "emissionsAvoided": 5.88455
+        },
+        {
+            "timestamp": "2022-06-27T22:00:00.000Z",
+            "energy": 3494,
+            "emissionsAvoided": 5.639316000000001
+        },
+        {
+            "timestamp": "2022-06-27T23:00:00.000Z",
+            "energy": 1060,
+            "emissionsAvoided": 1.7490883333333334
+        },
+        {
+            "timestamp": "2022-06-28T00:00:00.000Z",
+            "energy": 489,
+            "emissionsAvoided": 0.7810552500000001
+        },
+        {
+            "timestamp": "2022-06-28T01:00:00.000Z",
+            "energy": 142,
+            "emissionsAvoided": 0.22818216666666669
+        },
+        {
+            "timestamp": "2022-06-28T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-28T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-28T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-28T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-28T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-28T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-28T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-28T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-28T10:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-28T11:00:00.000Z",
+            "energy": 154,
+            "emissionsAvoided": 0.244629
+        },
+        {
+            "timestamp": "2022-06-28T12:00:00.000Z",
+            "energy": 688,
+            "emissionsAvoided": 1.1057306666666666
+        },
+        {
+            "timestamp": "2022-06-28T13:00:00.000Z",
+            "energy": 1273,
+            "emissionsAvoided": 2.068200666666667
+        },
+        {
+            "timestamp": "2022-06-28T14:00:00.000Z",
+            "energy": 2436,
+            "emissionsAvoided": 3.886435
+        },
+        {
+            "timestamp": "2022-06-28T15:00:00.000Z",
+            "energy": 3626,
+            "emissionsAvoided": 5.7988805
+        },
+        {
+            "timestamp": "2022-06-28T16:00:00.000Z",
+            "energy": 6323,
+            "emissionsAvoided": 10.1136385
+        },
+        {
+            "timestamp": "2022-06-28T17:00:00.000Z",
+            "energy": 7610,
+            "emissionsAvoided": 12.028873333333333
+        },
+        {
+            "timestamp": "2022-06-28T18:00:00.000Z",
+            "energy": 6811,
+            "emissionsAvoided": 11.229068666666667
+        },
+        {
+            "timestamp": "2022-06-28T19:00:00.000Z",
+            "energy": 5925,
+            "emissionsAvoided": 9.87105
+        },
+        {
+            "timestamp": "2022-06-28T20:00:00.000Z",
+            "energy": 5662,
+            "emissionsAvoided": 9.449878
+        },
+        {
+            "timestamp": "2022-06-28T21:00:00.000Z",
+            "energy": 3513,
+            "emissionsAvoided": 5.806989
+        },
+        {
+            "timestamp": "2022-06-28T22:00:00.000Z",
+            "energy": 3790,
+            "emissionsAvoided": 6.09811
+        },
+        {
+            "timestamp": "2022-06-28T23:00:00.000Z",
+            "energy": 1634,
+            "emissionsAvoided": 2.6862959999999996
+        },
+        {
+            "timestamp": "2022-06-29T00:00:00.000Z",
+            "energy": 525,
+            "emissionsAvoided": 0.8711500000000001
+        },
+        {
+            "timestamp": "2022-06-29T01:00:00.000Z",
+            "energy": 120,
+            "emissionsAvoided": 0.19266
+        },
+        {
+            "timestamp": "2022-06-29T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-29T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-29T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-29T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-29T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-29T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-29T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-29T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-29T10:00:00.000Z",
+            "energy": 6,
+            "emissionsAvoided": 0.009440999999999998
+        },
+        {
+            "timestamp": "2022-06-29T11:00:00.000Z",
+            "energy": 164,
+            "emissionsAvoided": 0.26103333333333334
+        },
+        {
+            "timestamp": "2022-06-29T12:00:00.000Z",
+            "energy": 664,
+            "emissionsAvoided": 1.0717513333333333
+        },
+        {
+            "timestamp": "2022-06-29T13:00:00.000Z",
+            "energy": 1719,
+            "emissionsAvoided": 2.7827745000000004
+        },
+        {
+            "timestamp": "2022-06-29T14:00:00.000Z",
+            "energy": 3672,
+            "emissionsAvoided": 5.856228
+        },
+        {
+            "timestamp": "2022-06-29T15:00:00.000Z",
+            "energy": 5712,
+            "emissionsAvoided": 9.152527999999998
+        },
+        {
+            "timestamp": "2022-06-29T16:00:00.000Z",
+            "energy": 7085,
+            "emissionsAvoided": 11.242123750000001
+        },
+        {
+            "timestamp": "2022-06-29T17:00:00.000Z",
+            "energy": 7543,
+            "emissionsAvoided": 12.442807083333332
+        },
+        {
+            "timestamp": "2022-06-29T18:00:00.000Z",
+            "energy": 7838,
+            "emissionsAvoided": 13.058107999999999
+        },
+        {
+            "timestamp": "2022-06-29T19:00:00.000Z",
+            "energy": 7135,
+            "emissionsAvoided": 11.896423333333333
+        },
+        {
+            "timestamp": "2022-06-29T20:00:00.000Z",
+            "energy": 6539,
+            "emissionsAvoided": 10.933207999999999
+        },
+        {
+            "timestamp": "2022-06-29T21:00:00.000Z",
+            "energy": 5226,
+            "emissionsAvoided": 8.654256
+        },
+        {
+            "timestamp": "2022-06-29T22:00:00.000Z",
+            "energy": 1913,
+            "emissionsAvoided": 3.07993
+        },
+        {
+            "timestamp": "2022-06-29T23:00:00.000Z",
+            "energy": 1034,
+            "emissionsAvoided": 1.702998
+        },
+        {
+            "timestamp": "2022-06-30T00:00:00.000Z",
+            "energy": 503,
+            "emissionsAvoided": 0.8311236666666666
+        },
+        {
+            "timestamp": "2022-06-30T01:00:00.000Z",
+            "energy": 113,
+            "emissionsAvoided": 0.187015
+        },
+        {
+            "timestamp": "2022-06-30T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-30T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-30T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-30T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-30T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-30T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-30T08:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-30T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-06-30T10:00:00.000Z",
+            "energy": 1,
+            "emissionsAvoided": 0.00159375
+        },
+        {
+            "timestamp": "2022-06-30T11:00:00.000Z",
+            "energy": 171,
+            "emissionsAvoided": 0.27645
+        },
+        {
+            "timestamp": "2022-06-30T12:00:00.000Z",
+            "energy": 166,
+            "emissionsAvoided": 0.2678963333333333
+        },
+        {
+            "timestamp": "2022-06-30T13:00:00.000Z",
+            "energy": 533,
+            "emissionsAvoided": 0.8635488333333333
+        },
+        {
+            "timestamp": "2022-06-30T14:00:00.000Z",
+            "energy": 3599,
+            "emissionsAvoided": 5.72241
+        },
+        {
+            "timestamp": "2022-06-30T15:00:00.000Z",
+            "energy": 4825,
+            "emissionsAvoided": 7.927877083333333
+        },
+        {
+            "timestamp": "2022-06-30T16:00:00.000Z",
+            "energy": 7068,
+            "emissionsAvoided": 11.549112
+        },
+        {
+            "timestamp": "2022-06-30T17:00:00.000Z",
+            "energy": 7333,
+            "emissionsAvoided": 12.018787
+        },
+        {
+            "timestamp": "2022-06-30T18:00:00.000Z",
+            "energy": 5839,
+            "emissionsAvoided": 9.739452
+        },
+        {
+            "timestamp": "2022-06-30T19:00:00.000Z",
+            "energy": 5995,
+            "emissionsAvoided": 9.99966
+        },
+        {
+            "timestamp": "2022-06-30T20:00:00.000Z",
+            "energy": 3400,
+            "emissionsAvoided": 5.684799999999999
+        },
+        {
+            "timestamp": "2022-06-30T21:00:00.000Z",
+            "energy": 3512,
+            "emissionsAvoided": 5.81236
+        },
+        {
+            "timestamp": "2022-06-30T22:00:00.000Z",
+            "energy": 2106,
+            "emissionsAvoided": 3.39066
+        },
+        {
+            "timestamp": "2022-06-30T23:00:00.000Z",
+            "energy": 1028,
+            "emissionsAvoided": 1.693116
+        },
+        {
+            "timestamp": "2022-07-01T00:00:00.000Z",
+            "energy": 599,
+            "emissionsAvoided": 0.990147
+        },
+        {
+            "timestamp": "2022-07-01T01:00:00.000Z",
+            "energy": 159,
+            "emissionsAvoided": 0.2631185
+        },
+        {
+            "timestamp": "2022-07-01T02:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-07-01T03:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+        },
+        {
+            "timestamp": "2022-07-01T04:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+        }
+    ]
+}

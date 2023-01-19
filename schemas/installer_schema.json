@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://web3renewables.com/installer_role_schema.json",
+  "title": "Installer Role Schema",
+  "description": "Schema describing information collected from Installer's at point of registration",
+  "type": "object",
+  "properties": {
+    "installer_business_name": {
+      "type": "string",
+      "description": "Name of buisness installer is apart of"
+    },
+    "installer_business_address": {
+      "type": "string",
+      "description": "Address of the installer's business"
+    },
+    "installer_business_website": {
+      "type": "string",
+      "description": "Website of the installer's business"
+    },
+    "installer_owner_name": {
+      "type": "string",
+      "description": "Business owner's name"
+    },
+    "installer_company_ein": {
+      "type": "string",
+      "description": "Business EIN"
+    },
+    "installer_contact_phone_number": {
+      "type": "string",
+      "description": "Phone number of installer to contact if necessary"
+    },
+    "installer_email_address": {
+      "type": "string",
+      "description": "Email address of installer to contact if necessary"
+    },
+    "electrician_class_type": {
+      "type": "string",
+      "description": "Electrical contractor class type"
+    },
+    "electrician_license_number": {
+      "type": "string",
+      "description": "Electrical contractor license number"
+    },
+    "electrician_application_number": {
+      "type": "string",
+      "description": "Electrical contractor application number"
+    },
+    "electrician_status": {
+      "type": "string",
+      "description": "Electrical contractor license status",
+      "enum": ["issued", "revoked"]
+    },
+    "electrician_enforcement_action": {
+      "type": "string",
+      "description": "Electrical contractor enforcement action description"
+    },
+    "electrician_enforcement_action_radio": {
+      "type": "string",
+      "description": "Electrical contractor enforcement action status",
+      "enum": ["yes", "no"]
+    },
+    "electrician_expiration_date": {
+      "type": "string",
+      "description": "Electrical contractor license expiration date - ISO 8601"
+    },
+    "electrician_effective_date": {
+      "type": "string",
+      "description": "Electrical contractor license effective date - ISO 8601"
+    },
+    "electrician_origination_date": {
+      "type": "string",
+      "description": "Electrical contractor license origination date - ISO 8601"
+    },
+    "electrician_print_date": {
+      "type": "string",
+      "description": "Electrical contractor license print date - ISO 8601"
+    },
+    "installer_electrician_business_relationship_did": {
+      "type": "string",
+      "description": "DID of the Electrician that has the required business relationship with the installer"
+    }
+  },
+  "required": [
+    "installer_business_name",
+    "installer_business_address",
+    "installer_owner_name",
+    "installer_contact_phone_number",
+    "installer_contact_email_address",
+    "electrician_class_type",
+    "electrician_license_number",
+    "electrician_application_number",
+    "electrician_status",
+    "electrician_enforcement_action_radio",
+    "electrician_expiration_date",
+    "electrician_effective_date",
+    "electrician_origination_date",
+    "installer_electrician_business_relationship_did"
+  ]
+}

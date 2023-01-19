@@ -1,0 +1,271 @@
+{
+  "inverter": {
+    "fileName": "2022-08-25T00:00:00.000Z_did:ethr:volta:0x0795Ddb3CA6Ca7367B5761cffEda74E62D8983c0_raw_inverter.json",
+    "data": {
+      "energy": {
+        "timeUnit": "HOUR",
+        "unit": "Wh",
+        "measuredBy": "INVERTER",
+        "values": [
+          {
+            "date": "2022-08-25 00:00:00",
+            "value": null
+          },
+          {
+            "date": "2022-08-25 01:00:00",
+            "value": null
+          },
+          {
+            "date": "2022-08-25 02:00:00",
+            "value": null
+          },
+          {
+            "date": "2022-08-25 03:00:00",
+            "value": 0
+          },
+          {
+            "date": "2022-08-25 04:00:00",
+            "value": null
+          },
+          {
+            "date": "2022-08-25 05:00:00",
+            "value": null
+          },
+          {
+            "date": "2022-08-25 06:00:00",
+            "value": 0
+          },
+          {
+            "date": "2022-08-25 07:00:00",
+            "value": 126
+          },
+          {
+            "date": "2022-08-25 08:00:00",
+            "value": 601
+          },
+          {
+            "date": "2022-08-25 09:00:00",
+            "value": 878
+          },
+          {
+            "date": "2022-08-25 10:00:00",
+            "value": 1186
+          },
+          {
+            "date": "2022-08-25 11:00:00",
+            "value": 2463
+          },
+          {
+            "date": "2022-08-25 12:00:00",
+            "value": 3513
+          },
+          {
+            "date": "2022-08-25 13:00:00",
+            "value": 6530
+          },
+          {
+            "date": "2022-08-25 14:00:00",
+            "value": 6649
+          },
+          {
+            "date": "2022-08-25 15:00:00",
+            "value": 4928
+          },
+          {
+            "date": "2022-08-25 16:00:00",
+            "value": 4037
+          },
+          {
+            "date": "2022-08-25 17:00:00",
+            "value": 2908
+          },
+          {
+            "date": "2022-08-25 18:00:00",
+            "value": 780
+          },
+          {
+            "date": "2022-08-25 19:00:00",
+            "value": 124
+          },
+          {
+            "date": "2022-08-25 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "2022-08-25 21:00:00",
+            "value": null
+          },
+          {
+            "date": "2022-08-25 22:00:00",
+            "value": 0
+          },
+          {
+            "date": "2022-08-25 23:00:00",
+            "value": null
+          }
+        ]
+      }
+    }
+  },
+  "gc": {
+    "fileName": "2022-08-25T00:00:00.000Z_did:ethr:volta:0x0795Ddb3CA6Ca7367B5761cffEda74E62D8983c0_gc.json",
+    "data": {
+      "metadata": {
+        "type": "Daily"
+      },
+      "energy_carrier": "Electricity",
+      "commissioning_date": "2022-08-17",
+      "production_interval_start": "2022-08-25T05:00:00.000Z",
+      "production_interval_end": "2022-08-26T04:59:59.059Z",
+      "issuance_stamp_date": "2022-09-08T16:51:22.847Z",
+      "source": "Solar Power",
+      "technology": "Solar PV System",
+      "production_device_identifier": "did:ethr:volta:0x0795Ddb3CA6Ca7367B5761cffEda74E62D8983c0",
+      "country": "United States of America",
+      "gps": {
+        "latitude": "83.2",
+        "longitude": "-43.2"
+      },
+      "ac_capacity": "100.2",
+      "dc_capacity": "293.2",
+      "total_wh_generation": "",
+      "total_emissions_avoided": "",
+      "generation_data": {
+        "timeUnit": "HOUR",
+        "unit": "Wh",
+        "measuredBy": "INVERTER",
+        "values": [
+          {
+            "timestamp": "2022-08-25T05:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+          },
+          {
+            "timestamp": "2022-08-25T06:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+          },
+          {
+            "timestamp": "2022-08-25T07:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+          },
+          {
+            "timestamp": "2022-08-25T08:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+          },
+          {
+            "timestamp": "2022-08-25T09:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+          },
+          {
+            "timestamp": "2022-08-25T10:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+          },
+          {
+            "timestamp": "2022-08-25T11:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+          },
+          {
+            "timestamp": "2022-08-25T12:00:00.000Z",
+            "energy": 126,
+            "emissionsAvoided": 0.20112750000000001
+          },
+          {
+            "timestamp": "2022-08-25T13:00:00.000Z",
+            "energy": 601,
+            "emissionsAvoided": 0.9582444166666667
+          },
+          {
+            "timestamp": "2022-08-25T14:00:00.000Z",
+            "energy": 878,
+            "emissionsAvoided": 1.3759723333333334
+          },
+          {
+            "timestamp": "2022-08-25T15:00:00.000Z",
+            "energy": 1186,
+            "emissionsAvoided": 1.878624
+          },
+          {
+            "timestamp": "2022-08-25T16:00:00.000Z",
+            "energy": 2463,
+            "emissionsAvoided": 3.841459
+          },
+          {
+            "timestamp": "2022-08-25T17:00:00.000Z",
+            "energy": 3513,
+            "emissionsAvoided": 5.660614
+          },
+          {
+            "timestamp": "2022-08-25T18:00:00.000Z",
+            "energy": 6530,
+            "emissionsAvoided": 10.738585
+          },
+          {
+            "timestamp": "2022-08-25T19:00:00.000Z",
+            "energy": 6649,
+            "emissionsAvoided": 10.944253999999999
+          },
+          {
+            "timestamp": "2022-08-25T20:00:00.000Z",
+            "energy": 4928,
+            "emissionsAvoided": 8.136128000000001
+          },
+          {
+            "timestamp": "2022-08-25T21:00:00.000Z",
+            "energy": 4037,
+            "emissionsAvoided": 6.596457999999999
+          },
+          {
+            "timestamp": "2022-08-25T22:00:00.000Z",
+            "energy": 2908,
+            "emissionsAvoided": 4.618388666666667
+          },
+          {
+            "timestamp": "2022-08-25T23:00:00.000Z",
+            "energy": 780,
+            "emissionsAvoided": 1.264055
+          },
+          {
+            "timestamp": "2022-08-26T00:00:00.000Z",
+            "energy": 124,
+            "emissionsAvoided": 0.20402133333333333
+          },
+          {
+            "timestamp": "2022-08-26T01:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+          },
+          {
+            "timestamp": "2022-08-26T02:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+          },
+          {
+            "timestamp": "2022-08-26T03:00:00.000Z",
+            "energy": 0,
+            "emissionsAvoided": 0
+          },
+          {
+            "timestamp": "2022-08-26T04:00:00.000Z",
+            "energy": null,
+            "emissionsAvoided": 0
+          }
+        ]
+      },
+      "marginal_grid_emissions_source": "https://api2.watttime.org/v2",
+      "gc_issuer": "did:ethr:volta:0x224CbA4ae8D27Ba69793CFeFe042682B81eA77c5",
+      "issued_from": "Development",
+      "certificate_status": "Active",
+      "impact_credit": "",
+      "interconnection": {
+        "energy_injected_utility": "Sample",
+        "balancing_authority": ""
+      }
+    }
+  }
+}
