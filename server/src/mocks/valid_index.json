@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "Web3 Renewables Granular Certificate Index",
+    "description": "Index describing the location of all GCs reporting into the Web3 Renewables Index",
+    "document_type": "Production",
+    "web3_renewables_did": "did:ethr:ewc:0x224CbA4ae8D27Ba69793CFeFe042682B81eA77c5",
+    "version": 1
+  },
+  "daily": {
+    "2022-09-15T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeie6ovvx75ycwubcdjkprkiv5jfgkoc6peckhesyhyxqzuoriaxghu",
+          "vcUuid": "bb807452-5c11-4ec1-b14a-6f47fa2f86da",
+          "cid": "bafybeihiwu5rwm4oh55jqqzhbotzbfzbvtn26dxadyrgsa23tbyfcgqdli",
+          "fileName": "2022-09-15T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeie6ovvx75ycwubcdjkprkiv5jfgkoc6peckhesyhyxqzuoriaxghu",
+          "vcUuid": "254173de-ef64-4eb9-8660-3a2b19893770",
+          "cid": "bafybeihiwu5rwm4oh55jqqzhbotzbfzbvtn26dxadyrgsa23tbyfcgqdli",
+          "fileName": "2022-09-15T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-09-18T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeigvqoyoa2s5awxqre7dalgtsio3bnkgt6yqkkki6djvno5tf3n6iu",
+          "vcUuid": "35da9c48-726f-4280-9218-9f54147bdb05",
+          "cid": "bafybeiaonhcieqk2lqqrkt6r47eaucff7brexosuygw7b2xqgty3hdplya",
+          "fileName": "2022-09-18T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeigvqoyoa2s5awxqre7dalgtsio3bnkgt6yqkkki6djvno5tf3n6iu",
+          "vcUuid": "b593e2a8-b13d-464c-902d-e0b02a53199c",
+          "cid": "bafybeiaonhcieqk2lqqrkt6r47eaucff7brexosuygw7b2xqgty3hdplya",
+          "fileName": "2022-09-18T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        }
+      ]
+    }
+  },
+  "monthly": {},
+  "pvSystems": {
+    "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE": [
+      "2022-09-15T00:00:00.000Z",
+      "2022-09-18T00:00:00.000Z"
+    ],
+    "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54": [
+      "2022-09-15T00:00:00.000Z",
+      "2022-09-18T00:00:00.000Z"
+    ]
+  }
+}

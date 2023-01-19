@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://web3renewables.com/installer_role_schema.json",
+  "title": "PV System Role Schema",
+  "description": "Schema describing information collected from installers about a PV System at point of registration",
+  "type": "object",
+  "properties": {
+    "pv_system_pv_system_capacity": {
+      "type": "string",
+      "description": "AC inverter rating of PV System"
+    },
+    "pv_system_pv_system_capacity_dc": {
+      "type": "string",
+      "description": "DC inverter rating of PV System"
+    },
+    "pv_system_meter_id": {
+      "type": "string",
+      "description": "PV system's meter identifier"
+    },
+    "pv_system_balancing_authority": {
+      "type": "string",
+      "description": "Balancing authority of PV system"
+    },
+    "pv_system_measurement_body": {
+      "type": "string",
+      "description": "Measurement body of PV system"
+    },
+    "pv_system_meter_serial_number": {
+      "type": "string",
+      "description": "PV system serial number: stored encrypted in non-public database"
+    },
+    "pv_system_on_site_meter_number": {
+      "type": "string",
+      "description": "PV system on-site meter number"
+    },
+    "pv_system_latitude_of_production_device": {
+      "type": "string",
+      "description": "Latitude of the PV system - Must have 6 decimals for accurate WattTime data"
+    },
+    "pv_system_longitude_of_production_device": {
+      "type": "string",
+      "description": "Latitude of the PV system - Must have 6 decimals for accurate WattTime data"
+    },
+    "pv_system_grid_interjection": {
+      "type": "string",
+      "description": "PV system's grid interjection"
+    },
+    "pv_system_production_device_auxiliaries": {
+      "type": "string",
+      "description": "PV system's auxiliaries"
+    },
+    "pv_system_date_of_comissioning": {
+      "type": "string",
+      "description": "Date PV system was commissioned - ISO 8601"
+    },
+    "pv_system_meter_type": {
+      "type": "string",
+      "description": "Inverter type (API for collecting energy data)",
+      "enum": ["solar_edge_inverter"]
+    }
+  },
+  "required": [
+    "pv_system_pv_system_capacity",
+    "pv_system_pv_system_capacity_dc",
+    "pv_system_meter_id",
+    "pv_system_balancing_authority",
+    "pv_system_measurement_body",
+    "pv_system_meter_serial_number",
+    "pv_system_on_site_meter_number",
+    "pv_system_latitude_of_production_device",
+    "pv_system_longitude_of_production_device",
+    "pv_system_grid_interjection",
+    "pv_system_date_of_comissioning",
+    "pv_system_meter_type"
+  ]
+}

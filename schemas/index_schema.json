@@ -1,0 +1,178 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://web3renewables.com/daily_gc_schmea.json",
+  "title": "Granular Certificate Index Schmea",
+  "description": "Daily and Monthly Granular Certificate Index",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "description": "Metadata Describing the Functions of this document",
+      "type": "object",
+      "properties": {
+        "title": {
+          "description": "Title of this document",
+          "type": "string"
+        },
+        "description": {
+          "description": "Description of this document",
+          "type": "string"
+        },
+        "document_type": {
+          "description": "Type of document - Is it production or development",
+          "type": "string"
+        },
+        "web3_renewables_did": {
+          "description": "DID of the Web3 Renewables Wallet Address",
+          "type": "string"
+        },
+        "version": {
+          "type": "number",
+          "description": "Version Number of this Document"
+        },
+        "lastModified": {
+          "type": "string",
+          "description": "Date this document was last modified"
+        }
+      },
+      "required": [
+        "title",
+        "description",
+        "document_type",
+        "web3_renewables_did"
+      ]
+    },
+    "pvSystems": {
+      "type": "object",
+      "description": "Mapping of PV Systems to their participating days to make indexing easier",
+      "patternProperties": {
+        "^[a-zA-Z0-9:]*$": {
+          "type": "object",
+          "description": "Maps PV System DID to Index Metadata - Useful for indexing Granular Certificates by PV System DID and Role Status",
+          "items": {
+            "type": "object",
+            "description": "PV System Metadata",
+            "properties": {
+              "dates_reporting": {
+                "type": "array",
+                "description": "Dates the PV System has reported Daily GCs",
+                "item": "string"
+              },
+              "status": {
+                "type": "string",
+                "description": "Describes if the PV System has had its role revoked by Web3 Renewables - Active or Revoked. This is not the same as a GC status, however they should be the same after each monthly udpate."
+              },
+              "required": ["dates_reporting", "status"]
+            }
+          }
+        }
+      }
+    },
+    "daily": {
+      "type": "object",
+      "description": "All Active Daily GCs in the Index - ISO 8601 and UTC",
+      "patternProperties": {
+        "\\d{4}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[1-2]\\d|3[0-1])T(?:[0-1]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+|)(?:Z|(?:\\+|\\-)(?:\\d{2}):?(?:\\d{2}))": {
+          "type": "object",
+          "description": "Date Entry that Generation Data Covers. Key is the Date (Day) in UTC format",
+          "properties": {
+            "entries": {
+              "description": "Array of GC's that are active in the index",
+              "type": "array",
+              "items": {
+                "type": "object",
+                "description": "GC Entry Metadata",
+                "properties": {
+                  "cid": {
+                    "description": "CID Location of the Entry (the Directory)",
+                    "type": "string"
+                  },
+                  "fileName": {
+                    "description": "File Name of the GC (can be located using 'ipfs/<cid>/<fileName>'",
+                    "type": "string"
+                  },
+                  "pvSystemDID": {
+                    "description": "DID of the PV System Asset this entry belongs too",
+                    "type": "string"
+                  },
+                  "rawInverterCID": {
+                    "description": "CID of the raw inverter data on Web3 Storage",
+                    "type": "string"
+                  },
+                  "vcUuid": {
+                    "description": "Verifiable Credential UUID on the Web3 Renewables DID Document",
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "cid",
+                  "fileName",
+                  "pvSystemDID",
+                  "rawInverterCID",
+                  "vcUuid"
+                ]
+              }
+            }
+          },
+          "required": ["entries"]
+        }
+      },
+      "required": []
+    },
+    "monthly": {
+      "type": "object",
+      "description": "All Active Monthly GCs in the Index",
+      "patternProperties": {
+        "^[0-9-]+$": {
+          "type": "object",
+          "description": "Year that a GC is contained in.",
+          "patternProperties": {
+            "[0-9]+$": {
+              "type": "object",
+              "description": "Month in numerical format (e.g., 1 = January, 2 = February, 3 = March, etc..) of a GC",
+              "properties": {
+                "entries": {
+                  "description": "Array of Monthly GC's that are active in the index",
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "description": "GC Entry Metadata",
+                    "properties": {
+                      "cid": {
+                        "description": "CID Location of the Entry (the Directory)",
+                        "type": "string"
+                      },
+                      "fileName": {
+                        "description": "File Name of the Monthyl GC (can be located using 'ipfs/<cid>/<fileName>'",
+                        "type": "string"
+                      },
+                      "pvSystemDID": {
+                        "description": "DID of the PV System Asset this entry belongs too",
+                        "type": "string"
+                      },
+                      "vcUuid": {
+                        "description": "Verifiable Credential UUID on the Web3 Renewables DID Document",
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "cid",
+                      "fileName",
+                      "pvSystemDID",
+                      "vcUuid"
+                    ]
+                  }
+                }
+              },
+              "required": ["entries"]
+            }
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "daily",
+    "monthly",
+    "pvSystems"
+  ]
+}

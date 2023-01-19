@@ -1,0 +1,19 @@
+{
+    "scripts": {
+        "dev:local": "truffle migrate --reset --network development",
+        "dev:volta": "truffle migrate --network volta",
+        "dev:volta-reset": "truffle migrate --reset --network volta",
+        "test:local": "truffle test --network development",
+        "test:volta": "truffle test --network volta"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.6.0",
+        "@truffle/hdwallet-provider": "^2.0.8",
+        "dotenv": "^16.0.1",
+        "truffle-assertions": "^0.9.2"
+    },
+    "devDependencies": {
+        "ganache-core": "^2.13.2",
+        "solidity-coverage": "^0.7.21"
+    }
+}

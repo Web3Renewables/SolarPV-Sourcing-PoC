@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://web3renewables.com/qualified_builer_role_schema.json",
+  "title": "Qualified Builder Role Schema",
+  "description": "Schema describing information collected from Qualified Builder's at point of registration",
+  "type": "object",
+  "properties": {
+    "qualifying_builder_name": {
+      "type": "string",
+      "description": "Name of the qualifying builder"
+    },
+    "qualifying_builder_address": {
+      "type": "string",
+      "description": "Address of the qualifying builder"
+    },
+    "qualifying_builder_phone_number": {
+      "type": "string",
+      "description": "Phone number of the qualifying builder"
+    },
+    "qualifying_builder_class_type": {
+      "type": "string",
+      "description": "Qualifying builder class type"
+    },
+    "qualifying_builder_license_number": {
+      "type": "string",
+      "description": "Qualifying builder license number"
+    },
+    "qualifying_builder_application_number": {
+      "type": "string",
+      "description": "Qualifying builder application number"
+    },
+    "qualifying_builder_status": {
+      "type": "string",
+      "description": "Qualifying builder license status",
+      "enum": ["issued", "revoked"]
+    },
+    "qualifying_builder_enforcement_action": {
+      "type": "string",
+      "description": "Qualifying builder enforcement action description"
+    },
+    "qualifying_builder_enforcement_action_radio": {
+      "type": "string",
+      "description": "Qualifying builder enforcement action status",
+      "enum": ["yes", "no"]
+    },
+    "qualifying_builder_expiration_date": {
+      "type": "string",
+      "description": "Qualifying builder license expiration date - ISO 8601"
+    },
+    "qualifying_builder_effective_date": {
+      "type": "string",
+      "description": "Qualifying builder license effective date - ISO 8601"
+    },
+    "qualifying_builder_origination_date": {
+      "type": "string",
+      "description": "Qualifying builder license origination date - ISO 8601"
+    },
+    "qualifying_builder_print_date": {
+      "type": "string",
+      "description": "Qualifying builder license print date - ISO 8601"
+    }
+  },
+  "required": [
+    "qualifying_builder_name",
+    "qualifying_builder_address",
+    "qualifying_builder_phone_number",
+    "qualifying_builder_class_type",
+    "qualifying_builder_license_number",
+    "qualifying_builder_application_number",
+    "qualifying_builder_status",
+    "qualifying_builder_enforcement_action_radio",
+    "qualifying_builder_expiration_date",
+    "qualifying_builder_effective_date",
+    "qualifying_builder_origination_date"
+  ]
+}

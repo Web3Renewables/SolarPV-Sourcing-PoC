@@ -1,0 +1,251 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://web3renewables.com/daily_gc_schmea.json",
+  "title": "Monthly Granular Certificate",
+  "description": "Monthly Granular Certificate Format for Energy Produced",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "description": "Metadata about the Granular Certificate",
+      "type": "object",
+      "properties": {
+        "type": {
+          "description": "Type of Document - Monthly",
+          "type": "string"
+        }
+      },
+      "required": [
+        "type"
+      ]
+    },
+    "installer_did": {
+      "type": "string",
+      "description": "Installer on this project during this vintage."
+    },
+    "timezone": {
+      "type": "string",
+      "description": "Timezone of the PV System - IANA"
+    },
+    "electricians_dids": {
+      "type": "array",
+      "description": "Assigned electricians' dids",
+      "item": {
+        "type": "string",
+        "description": "DID of electrician"
+      }
+    },
+    "energy_carrier": {
+      "description": "Type of energy carrier",
+      "type": "string"
+    },
+    "commissioning_date": {
+      "description": "Date PV System was commissioned",
+      "type": "string"
+    },
+    "production_interval_start": {
+      "description": "Start date (UTC) of energy produced that is contained in this Granular Certificate",
+      "type": "string"
+    },
+    "production_interval_end": {
+      "description": "End date (UTC) of energy produced that is contained in this Granular Certificate",
+      "type": "string"
+    },
+    "issuance_stamp_date": {
+      "description": "Date of Granular Certificate Issuance",
+      "type": "string"
+    },
+    "source": {
+      "description": "Source of energy produced",
+      "type": "string"
+    },
+    "technology": {
+      "description": "Technology used for energy production",
+      "type": "string"
+    },
+    "production_device_identifier": {
+      "description": "DID of production device.",
+      "type": "string"
+    },
+    "country": {
+      "description": "Country in which Granular Certificate is being issued from",
+      "type": "string"
+    },
+    "gps": {
+      "description": "GPS location of the PV System",
+      "type": "object",
+      "properties": {
+        "latitude": {
+          "description": "Latitude of the PV System",
+          "type": "string"
+        },
+        "longitude": {
+          "description": "Latitude of the PV System",
+          "type": "string"
+        }
+      },
+      "required": [
+        "latitude",
+        "longitude"
+      ]
+    },
+    "ac_capacity": {
+      "description": "Capacity of the system AC (in kW)",
+      "type": "string"
+    },
+    "dc_capacity": {
+      "description": "Capacity of the system DC (in kW)",
+      "type": "string"
+    },
+    "total_wh_generation": {
+      "type": "number",
+      "description": "Aggregated Daily WattHour Generatrion - For the Month"
+    },
+    "total_emissions_avoided": {
+      "type": "number",
+      "description": "Aggregated Daily WattHour Generatrion - For the Month"
+    },
+    "generation_data": {
+      "description": "Energy generated from the PV System from the start period to the end period (in wH)",
+      "type": "array",
+      "items": {
+        "cid": {
+          "type": "string",
+          "description": "CID of the Daily GC where this data was pulled from"
+        },
+        "fileName": {
+          "type": "string",
+          "description": "Filename of the Daily GC where this data was pulled from"
+        },
+        "daily_vc_uuid": {
+          "type": "string",
+          "description": "UUID Corresponding to the Daily VC on the Web3 Renewables DID Document"
+        },
+        "production_interval_start": {
+          "description": "Production start period for the wH generation in this entry",
+          "type": "string"
+        },
+        "production_interval_end": {
+          "description": "Production end period for the wH generation in this entry",
+          "type": "string"
+        },
+        "timeUnit": {
+          "description": "Interval of energy data recorded",
+          "type": "string"
+        },
+        "unit": {
+          "description": "Units of the energy values stored in the \"energy\" and \"emissionsAvoided\" properties",
+          "type": "string"
+        },
+        "measuredBy": {
+          "description": "Device that measured the energy produced",
+          "type": "string"
+        },
+        "values": {
+          "description": "A matching of energy generated from the PV System, the corresponding timestamp, and the emissions avoided due to generation",
+          "type": "array",
+          "items": {
+            "type": "object",
+            "description": "Individual entries of generation data and emissions avoided",
+            "properties": {
+              "timestamp": {
+                "description": "Timestamp (UTC) of the energy generation produced in the specified time unit",
+                "type": "string"
+              },
+              "energy": {
+                "description": "Energy produced in the specified time unit from the PV System",
+                "anyOf": [
+                  {"type": "number"},
+                  {"type": "null"}
+                ]
+              },
+              "emissionsAvoided": {
+                "description": "Emissions avoided in lbCO2e/wH during specified time unit at timestamp",
+                "type": "number"
+              }
+            },
+            "uniqueItems": true,
+            "required": [
+              "timestamp",
+              "energy",
+              "emissionsAvoided"
+            ]
+          }
+        },
+        "required": [
+          "cid",
+          "fileName",
+          "daily_vc_uuid",
+          "production_interval_start",
+          "production_interval_end",
+          "timeUnit", 
+          "unit", 
+          "measuredBy",
+          "values"
+        ]
+      }
+    },
+    "marginal_grid_emissions_source": {
+      "description": "Source that provided the marginal grid emissions at the PV System's location and timestamps",
+      "type": "string"
+    },
+    "gc_issuer": {
+      "description": "DID of the organization that issued this Granular Certificate",
+      "type": "string"
+    },
+    "issued_from": {
+      "description": "The environment the Granular Certificate was issued from: Production, Development",
+      "type": "string"
+    },
+    "certificate_status": {
+      "description": "Status of this certificate, can be active or revoked",
+      "type": "string"
+    },
+    "impact_credit": {
+      "description": "",
+      "type": "string"
+    },
+    "interconnection": {
+      "description": "Interconnection information fro the PV System",
+      "type": "object",
+      "properties": {
+        "energy_injected_utility": {
+          "description": "Energy injected utility",
+          "type": "string"
+        },
+        "balancing_authority": {
+          "description": "Balancing Authority of the PV System - Either Bidding Zone or Balancing Authority is Required",
+          "type": "string"
+        }
+      },
+      "required": [
+        "energy_injected_utility"
+      ]
+    }
+  },
+  "required": [
+    "timezone",
+    "energy_carrier",
+    "commissioning_date",
+    "production_interval_start",
+    "production_interval_end",
+    "issuance_stamp_date",
+    "source",
+    "technology",
+    "production_device_identifier",
+    "country",
+    "gps",
+    "ac_capacity",
+    "dc_capacity",
+    "generation_data",
+    "marginal_grid_emissions_source",
+    "gc_issuer",
+    "issued_from",
+    "certificate_status",
+    "impact_credit",
+    "interconnection",
+    "total_wh_generation",
+    "total_emissions_avoided",
+    "installer_did",
+    "electricians_dids"
+  ]
+}

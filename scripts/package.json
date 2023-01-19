@@ -1,0 +1,14 @@
+{
+  "name": "scripts",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "deploy:volta": "node -r dotenv/config volta/deploy.js dotenv_config_path=.env.local",
+    "deploy:ewc": "node -r dotenv/config ewc/deploy.js dotenv_config_path=.env.production",
+    "destroy:volta": "node -r dotenv/config volta/destroy.js dotenv_config_path=.env.local"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "iam-client-lib": "^7.0.0"
+  }
+}

@@ -1,0 +1,850 @@
+{
+  "metadata": {
+    "title": "Web3 Renewables Granular Certificate Index",
+    "description": "Index describing the location of all GCs reporting into the Web3 Renewables Index",
+    "document_type": "Development",
+    "web3_renewables_did": "did:ethr:volta:0x224CbA4ae8D27Ba69793CFeFe042682B81eA77c5",
+    "version": 1
+  },
+  "pvSystems": {
+    "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54": {
+      "reporting_dates": [
+        "2022-08-01T00:00:00.000Z",
+        "2022-08-02T00:00:00.000Z",
+        "2022-08-04T00:00:00.000Z",
+        "2022-08-05T00:00:00.000Z",
+        "2022-08-07T00:00:00.000Z",
+        "2022-08-08T00:00:00.000Z",
+        "2022-08-09T00:00:00.000Z",
+        "2022-08-10T00:00:00.000Z",
+        "2022-08-11T00:00:00.000Z",
+        "2022-08-12T00:00:00.000Z",
+        "2022-08-14T00:00:00.000Z",
+        "2022-08-15T00:00:00.000Z",
+        "2022-08-16T00:00:00.000Z",
+        "2022-08-17T00:00:00.000Z",
+        "2022-08-20T00:00:00.000Z",
+        "2022-08-21T00:00:00.000Z",
+        "2022-08-22T00:00:00.000Z",
+        "2022-08-23T00:00:00.000Z",
+        "2022-08-24T00:00:00.000Z",
+        "2022-08-25T00:00:00.000Z",
+        "2022-08-26T00:00:00.000Z",
+        "2022-08-28T00:00:00.000Z",
+        "2022-08-29T00:00:00.000Z",
+        "2022-08-30T00:00:00.000Z",
+        "2022-08-31T00:00:00.000Z",
+        "2022-09-20T00:00:00.000Z"
+      ],
+      "status": "Active"
+    },
+    "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE": {
+      "reporting_dates": [
+        "2022-08-02T00:00:00.000Z",
+        "2022-08-03T00:00:00.000Z",
+        "2022-08-04T00:00:00.000Z",
+        "2022-08-06T00:00:00.000Z",
+        "2022-08-07T00:00:00.000Z",
+        "2022-08-08T00:00:00.000Z",
+        "2022-08-11T00:00:00.000Z",
+        "2022-08-12T00:00:00.000Z",
+        "2022-08-13T00:00:00.000Z",
+        "2022-08-15T00:00:00.000Z",
+        "2022-08-16T00:00:00.000Z",
+        "2022-08-17T00:00:00.000Z",
+        "2022-08-18T00:00:00.000Z",
+        "2022-08-22T00:00:00.000Z",
+        "2022-08-23T00:00:00.000Z",
+        "2022-08-25T00:00:00.000Z",
+        "2022-08-28T00:00:00.000Z",
+        "2022-08-29T00:00:00.000Z",
+        "2022-08-30T00:00:00.000Z",
+        "2022-09-20T00:00:00.000Z"
+      ],
+      "status": "Active"
+    },
+    "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44": {
+      "reporting_dates": [
+        "2022-08-01T00:00:00.000Z",
+        "2022-08-02T00:00:00.000Z",
+        "2022-08-03T00:00:00.000Z",
+        "2022-08-04T00:00:00.000Z",
+        "2022-08-05T00:00:00.000Z",
+        "2022-08-06T00:00:00.000Z",
+        "2022-08-07T00:00:00.000Z",
+        "2022-08-08T00:00:00.000Z",
+        "2022-08-09T00:00:00.000Z",
+        "2022-08-10T00:00:00.000Z",
+        "2022-08-11T00:00:00.000Z",
+        "2022-08-12T00:00:00.000Z",
+        "2022-08-13T00:00:00.000Z",
+        "2022-08-14T00:00:00.000Z",
+        "2022-08-15T00:00:00.000Z",
+        "2022-08-16T00:00:00.000Z",
+        "2022-08-17T00:00:00.000Z",
+        "2022-08-18T00:00:00.000Z",
+        "2022-08-19T00:00:00.000Z",
+        "2022-08-20T00:00:00.000Z",
+        "2022-08-21T00:00:00.000Z",
+        "2022-08-22T00:00:00.000Z",
+        "2022-08-23T00:00:00.000Z",
+        "2022-08-24T00:00:00.000Z",
+        "2022-08-25T00:00:00.000Z",
+        "2022-08-26T00:00:00.000Z",
+        "2022-08-27T00:00:00.000Z",
+        "2022-08-28T00:00:00.000Z",
+        "2022-08-29T00:00:00.000Z",
+        "2022-08-30T00:00:00.000Z",
+        "2022-08-31T00:00:00.000Z"
+      ],
+      "status": "Active"
+    }
+  },
+  "daily": {
+    "2022-08-01T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-01T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "bd0d3fdb-2aef-4c01-8a0d-67f1861e4aa4",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-01T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-02T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-02T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-02T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "be4e16ff-db7f-4fc9-b728-655ce689f776",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-02T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-03T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-03T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "a50d7d39-448c-4b85-b622-667893d6ac24",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-03T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-04T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-04T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-04T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "58ed89e4-661d-42cc-b4b9-21501b2fa9f9",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-04T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-05T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-05T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "952db094-4a13-4e0c-aa17-6539fd3daa16",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-05T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-06T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-06T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "859a2cf8-53d9-45c7-bff0-7b27cb5c9d47",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-06T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-07T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-07T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-07T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "84b758b8-b921-4166-b89f-f01865d97b5d",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-07T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-08T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-08T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-08T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "e9b151a4-ce5f-43eb-b2d2-2e562e46c59d",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-08T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-09T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-09T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "f79a6770-b52d-4418-a6c9-12a8c51f4ce0",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-09T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-10T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-10T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "14e2f0aa-dc2c-46e5-9877-2f4620b2dbc0",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-10T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-11T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-11T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-11T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "b2e27b5c-9aab-4640-9e3c-0f9b6b760b4f",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-11T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-12T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-12T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-12T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "2cad1adc-8688-4b07-8562-3b704bbc656c",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-12T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-13T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-13T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "71b48810-cd8b-4e47-8767-b8791e04ec5f",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-13T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-14T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-14T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "e128a0c1-054a-4cf6-96d1-ded21044a925",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-14T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-15T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-15T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-15T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "0fc8bbf9-ae56-4933-95e9-76796a046148",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-15T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-16T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-16T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-16T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "dd421cfc-d85d-46ca-8875-68adf16ad1c5",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-16T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-17T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-17T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-17T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "493d4d25-d5c7-455f-9876-6f812c936c45",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-17T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-18T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-18T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "b8555718-2959-47a8-83cc-05b527d39b73",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-18T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-20T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-20T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "206ec57b-c6c5-485e-bfa6-84549cec97bb",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-20T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-21T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-21T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "6520d34c-d4e3-4601-81ce-6c055e9960fe",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-21T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-22T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-22T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-22T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "f03198dc-1449-4fb4-9163-562288d869ff",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-22T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-23T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-23T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-23T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "8a36dd04-81eb-4937-87e8-f459a948b82d",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-23T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-24T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-24T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "1849d995-70e8-4041-80b5-ce12f9593533",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-24T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-25T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-25T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-25T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "91ba8552-9113-40d6-856a-7f8c72d66b9a",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-25T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-26T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-26T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "fa153a26-fd7e-4541-8672-d8f73875c596",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-26T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-28T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-28T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-28T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "d2a3f4de-af71-424f-ac45-04f758e4820c",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-28T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-29T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-29T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-29T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "c325cd1b-c238-44af-a5b4-4225165fe932",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-29T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-30T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-30T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-30T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "09f427ae-af16-4f0f-a42a-a6a158d5ec73",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-30T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-31T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmwxojwausy43ajkls44y54eqan6vmz6dxhrd6pwaomhunrz7e4y",
+          "vcUuid": "none",
+          "cid": "bafybeiaksbgj56rpr23tcs7a3ibcp7nqn54iolxejbnomelm7hwhreuqs4",
+          "fileName": "2022-08-31T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "3c909a06-5384-4fa8-b9c9-5afb98dec591",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-31T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-09-20T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeifmswrxxg7ey2oohvqge67e2rrrhk3fq3k4fzd62rnhm5lqjrrnmy",
+          "vcUuid": "cf56d18e-b5de-4c4d-9a83-c6ac22980cb6",
+          "cid": "bafybeig6w6prybc55hh3acxkzcfxqcjp2e45yu2zcmi7qsi3hu2n3ujz4a",
+          "fileName": "2022-09-20T00:00:00.000Z_did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x1863B5eABe907FA826C16589887440539E2F44AE",
+          "certificateStatus": "Active"
+        },
+        {
+          "rawInverterCID": "bafybeifmswrxxg7ey2oohvqge67e2rrrhk3fq3k4fzd62rnhm5lqjrrnmy",
+          "vcUuid": "0603b578-8c65-4ea5-af67-62bafe71c344",
+          "cid": "bafybeig6w6prybc55hh3acxkzcfxqcjp2e45yu2zcmi7qsi3hu2n3ujz4a",
+          "fileName": "2022-09-20T00:00:00.000Z_did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54_gc.json",
+          "pvSystemDID": "did:ethr:volta:0xDE859DE701CF59Ca8Fe0a3381B946820f85E0C54",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-19T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "4c749253-3d4e-48c3-9b09-1ed313253faf",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-19T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    },
+    "2022-08-27T00:00:00.000Z": {
+      "entries": [
+        {
+          "rawInverterCID": "bafybeidr5swrpgaefd32ot4ulbkyje273vecqviw2ptwc6mljsojep6wgq",
+          "vcUuid": "75368519-4c88-42fa-9043-83d84e02c192",
+          "cid": "bafybeibcilbtxuzlhkvuqv2nu6jojnlf6kxranf23m5l5boom2okpx7dfa",
+          "fileName": "2022-08-27T00:00:00.000Z_did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44_gc.json",
+          "pvSystemDID": "did:ethr:volta:0x419FC8A3f1b0072f466D9d72916E528c44310f44",
+          "certificateStatus": "Active"
+        }
+      ]
+    }
+  },
+  "monthly": {}
+}

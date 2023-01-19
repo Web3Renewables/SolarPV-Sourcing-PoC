@@ -1,0 +1,16 @@
+// https://nextjs.org/docs/advanced-features/module-path-aliases
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@components/*": ["src/components/*"],
+        "@providers/*": ["src/providers/*"],
+        "@layouts/*": ["src/components/layouts/*"],
+        "@auth/*": ["src/auth/*"],
+        "@utils/*": ["src/utils/*"],
+        "@config/*": ["src/config/*"],
+        "@actions/*": ["src/actions/*"],
+        "@libs/*": ["src/libs/*"],
+      }
+    }
+  }

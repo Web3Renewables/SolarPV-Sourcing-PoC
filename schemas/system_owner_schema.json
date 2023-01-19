@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://web3renewables.com/installer_role_schema.json",
+  "title": "PV System Owner Schema",
+  "description": "Schema describing information collected about a PV system owner at registration",
+  "type": "object",
+  "properties": {
+    "system_owner_full_name": {
+      "type": "string",
+      "description": "System owner's full name - is stored encrypted to a non-public database"
+    },
+    "system_owner_address": {
+      "type": "string",
+      "description": "System owner's address - is stored encrypted to a non-public database"
+    },
+    "system_owner_phone_number": {
+      "type": "string",
+      "description": "System owner's phone number - is stored encrypted to a non-public database"
+    },
+    "system_owner_email": {
+      "type": "string",
+      "description": "System owner's email address - is stored encrypted to a non-public database"
+    }
+  },
+  "required": [
+    "system_owner_full_name",
+    "system_owner_address",
+    "system_owner_phone_number",
+    "system_owner_email"
+  ]
+}

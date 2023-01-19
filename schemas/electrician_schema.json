@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://web3renewables.com/electrician_role_schema.json",
+  "title": "Electrician Role Schema",
+  "description": "Schema describing information collected from Electrician's at point of registration",
+  "type": "object",
+  "properties": {
+    "electrician_name": {
+      "type": "string",
+      "description": "Name of the electrician"
+    },
+    "electrician_address": {
+      "type": "string",
+      "description": "Address of the electrician"
+    },
+    "electrician_phone_number": {
+      "type": "string",
+      "description": "Phone number of the electrician"
+    },
+    "electrician_class_type": {
+      "type": "string",
+      "description": "Electrician class type"
+    },
+    "electrician_license_number": {
+      "type": "string",
+      "description": "Electrician license number"
+    },
+    "electrician_application_number": {
+      "type": "string",
+      "description": "Electrician application number"
+    },
+    "electrician_status": {
+      "type": "string",
+      "description": "Electrician license status",
+      "enum": ["issued", "revoked"]
+    },
+    "electrician_enforcement_action": {
+      "type": "string",
+      "description": "Electrician enforcement action description"
+    },
+    "electrician_enforcement_action_radio": {
+      "type": "string",
+      "description": "Electrician enforcement action status",
+      "enum": ["yes", "no"]
+    },
+    "electrician_expiration_date": {
+      "type": "string",
+      "description": "Electrician license expiration date - ISO 8601"
+    },
+    "electrician_effective_date": {
+      "type": "string",
+      "description": "Electrician license effective date - ISO 8601"
+    },
+    "electrician_origination_date": {
+      "type": "string",
+      "description": "Electrician license origination date - ISO 8601"
+    },
+    "electrician_print_date": {
+      "type": "string",
+      "description": "Electrician license print date - ISO 8601"
+    }
+  },
+  "required": [
+    "electrician_name",
+    "electrician_address",
+    "electrician_phone_number",
+    "electrician_class_type",
+    "electrician_license_number",
+    "electrician_application_number",
+    "electrician_status",
+    "electrician_enforcement_action_radio",
+    "electrician_expiration_date",
+    "electrician_effective_date",
+    "electrician_origination_date"
+  ]
+}
